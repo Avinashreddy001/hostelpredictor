@@ -1,0 +1,474 @@
+Hostel_ID,Hostel_Name,City,Area,Areanum,Price_(per day),Room_Type,Overall_Rating,Food_Rating,Security_Rating,Rent_(monthly),prioritypoints,Hospitality_Rating,Room_Sharing,Other_Amenities,Nearest_Bus_Stop_Dist,Laundry,Lnum,Water_Facility,Wnum
+1,Luckky Delux Boys & Girls Hostel & PG,Hyderabad,Miyapur,18,221,6-bed dorm,4.5,4.5,4.5,6619,6,4.5,3,"keycard access,CCTV surveillance,homely food",393,No,0,Yes,1
+2,Sree Vishnu Sai Men's PG Hostel,Hyderabad,Gachibowli,2,208,6-bed dorm,4,4,4,6233,6,4,3,"Pet-Friendly Facilities,outdoor space",351,No,0,Yes,1
+3,Sree Vishnu Sai Men's PG Hostel,Hyderabad,Mehidipatnam,1,262,Private room,4.5,4.5,4.5,7863,7,4.5,6,"game space,CCTV surveillance",56,No,0,Yes,1
+4,Basheer Executive Womens and Gents Hostel,Hyderabad,Bandlaguda Jagir,9,153,3-bed dorm,3,3,3,4600,4,3,3,"homely food,keycard access",415,Yes,1,Yes,1
+5,Sree Ravi Relax Inn Men's PG Hostel,Hyderabad,Himayatnagar,16,168,3-bed dorm,3,3,3,5039,5,3,4,"gym space,outdoor space",447,No,0,Yes,1
+6,Home Stay Boys Hostel,Hyderabad,Gachibowli,2,158,3-bed dorm,3,3.5,3.5,4729,4,3.5,5,"homely food,CCTV surveillance,outdoor space",464,Yes,1,Yes,1
+7,Om Shiva Sai Boys Deluxe Hostel,Hyderabad,Shamshabad,11,281,6-bed dorm,5,5,5,8444,8,5,4,"outdoor space,game space,homely food,gym space",153,Yes,1,Yes,1
+8,Sri Laxmi Executive Mens PG and Hostels,Hyderabad,Kondapur,8,199,4-bed dorm,4,3.5,4,5962,5,4,2,"lockers,kitchen,homely food,outdoor space",142,No,0,Yes,1
+9,Vsk Pg Mens Hostel,Hyderabad,Rajendranagar,25,183,6-bed dorm,4,3.5,3.5,5490,5,3.5,5,"outdoor space,CCTV surveillance,lockers",102,Yes,1,Yes,1
+10,Om Shiva Sai Boys Deluxe Hostel,Hyderabad,Gachibowli,2,185,Private room,4,4,4,5554,5,4,6,"lockers,game space",323,No,0,Yes,1
+11,Tanisha Boys Hostel,Hyderabad,Mehidipatnam,1,129,4-bed dorm,2.5,2.5,2.5,3874,3,2.5,4,"kitchen,lockers,TV",79,Yes,1,Yes,1
+12,Sandhya Reddy Luxury Ladies Hostel,Hyderabad,Madhapur,4,177,3-bed dorm,3.5,3.5,3.5,5308,5,3.5,3,"parking lot,keycard access",333,No,0,Yes,1
+13,Royal Executive Boys Hostel,Hyderabad,Kismatpur,14,243,6-bed dorm,4.5,4,4,7303,7,4,4,"lounge,outdoor space,parking lot,CCTV surveillance",266,No,0,Yes,1
+14,AR Prime Men's PG,Hyderabad,Amberpet,19,265,Private room,5,5,5,7960,7,5,5,"Pet-Friendly Facilities,TV",297,No,0,Yes,1
+15,Anuradha Deluxe Boys Hostel,Hyderabad,Langerhouz,17,191,6-bed dorm,3.5,3.5,3.5,5726,5,3.5,4,"keycard access,game space,lockers,parking lot",351,Yes,1,Yes,1
+16,Sri Vishnu Sai Deluxe Mens Hostel,Hyderabad,Budwel,13,183,4-bed dorm,3,3,3,5487,5,4,3,"keycard access,TV,kitchen,game space",212,Yes,1,Yes,1
+17,Om Shiva Sai Boys Deluxe Hostel,Hyderabad,LB Nagar,20,202,3-bed dorm,3.5,3.5,3.5,6051,6,3.5,4,"lockers,TV",287,No,0,Yes,1
+18,Annapurna Womens Hostel,Hyderabad,Kalimandir,23,200,3-bed dorm,4,4,4,6004,6,4,3,"kitchen,lockers",286,Yes,1,Yes,1
+19,Ravali Womens Hostel,Hyderabad,Mehidipatnam,1,225,4-bed dorm,4,4,4,6737,6,4,5,"TV,Pet-Friendly Facilities,keycard access,homely food",189,Yes,1,Yes,1
+20,MUKUNDA PG HOSTEL FOR MENS AC & NON AC,Hyderabad,Lakdikapul,5,222,6-bed dorm,4,4,4,6668,6,4,4,"parking lot,TV",242,Yes,1,Yes,1
+21,Lasya Mens Hostel,Hyderabad,Suncity,22,211,6-bed dorm,4,4.5,4,6315,6,4,4,"kitchen,keycard access,homely food",34,No,0,Yes,1
+22,Ravi Relax Inn Mens PG Hostel,Hyderabad,Lakdikapul,5,191,6-bed dorm,3.5,3.5,3.5,5722,5,3.5,3,"keycard access,kitchen,lockers,outdoor space",342,No,0,Yes,1
+23,G Cube Boys Hostel,Hyderabad,Kondapur,8,224,6-bed dorm,4.5,4,4,6709,6,4.5,6,"homely food,CCTV surveillance,parking lot,lockers",280,No,0,Yes,1
+24,Vaibhav Executive Boys Hostel,Hyderabad,Amberpet,19,235,3-bed dorm,4.5,4.5,4.5,7053,7,4.5,6,"parking lot,Pet-Friendly Facilities,lounge",149,Yes,1,Yes,1
+25,Shalom Beth Guest House - For Men,Hyderabad,Amberpet,19,175,6-bed dorm,3.5,3.5,4,5259,5,4,4,"parking lot,TV,CCTV surveillance,game space",408,Yes,1,Yes,1
+26,Sravani Deluxe Ladies Hostel,Hyderabad,Attapur,12,180,6-bed dorm,3.5,3.5,3.5,5411,5,3.5,4,"gym space,kitchen",87,Yes,1,Yes,1
+27,Denny's Luxurious Men's PG & Hostel,Hyderabad,Kukatpally,3,210,3-bed dorm,4,4,4,6308,6,4,5,"Pet-Friendly Facilities,gym space,CCTV surveillance",225,Yes,1,Yes,1
+28,Sri Lakshmi Boys Hostel,Hyderabad,Aziznagar,24,257,6-bed dorm,5,5,5,7722,7,5,2,"gym space,game space",112,No,0,Yes,1
+29,A S Hostels,Hyderabad,Suncity,22,169,4-bed dorm,3,3,3,5055,5,3,3,"lockers,lounge",281,No,0,Yes,1
+30,Laksh Triveni Executive Hostel For Men,Hyderabad,Bandlaguda Jagir,9,200,4-bed dorm,4,4,4.5,6002,6,4.5,2,"homely food,outdoor space",74,Yes,1,Yes,1
+31,Sri Lakshmi Boys Hostel,Hyderabad,Lakdikapul,5,267,4-bed dorm,5,5,5,8016,8,5,6,"parking lot,TV,keycard access",96,Yes,1,Yes,1
+32,Om Shiva Sai Boys Deluxe Hostel,Hyderabad,Amberpet,19,191,4-bed dorm,3.5,3.5,3.5,5736,5,3.5,5,"lounge,TV,homely food",153,Yes,1,Yes,1
+33,Diya Reddy Mens PG and Hostel,Hyderabad,Miyapur,18,228,4-bed dorm,4.5,4.5,4.5,6826,6,4.5,5,"outdoor space,lockers",150,No,0,Yes,1
+34,Basheer Executive Womens and Gents Hostel,Hyderabad,Bandlaguda Jagir,9,152,3-bed dorm,2.5,2.5,2.5,4547,4,2.5,4,"lockers,kitchen,lounge,TV",194,Yes,1,Yes,1
+35,A S Hostels,Hyderabad,Gachibowli,2,236,Private room,4.5,4.5,4.5,7074,7,4.5,4,"CCTV surveillance,game space,Pet-Friendly Facilities",329,No,0,Yes,1
+36,My Space Mens Pg Hostel,Hyderabad,Moinabad,10,181,3-bed dorm,4,4,4,5416,5,4,3,"Pet-Friendly Facilities,game space,CCTV surveillance,lockers",119,Yes,1,Yes,1
+37,B V Reddy Mens Pg Hostel,Hyderabad,Kismatpur,14,187,4-bed dorm,3.5,3.5,3.5,5604,5,3.5,4,"lounge,gym space,outdoor space,TV",439,Yes,1,Yes,1
+38,Sri Sai Executive Boys Hostel,Hyderabad,Narsingi,6,232,3-bed dorm,4,4.5,4,6974,6,4.5,5,"gym space,TV",157,Yes,1,Yes,1
+39,Sri Sai Ladies Deluxe Hostel (Women),Hyderabad,Bandlaguda Jagir,9,214,Private room,4,4,4,6406,6,4,6,"game space,keycard access,homely food",134,No,0,Yes,1
+40,Sri Thirumalai Mens Pg Hostel,Hyderabad,Moinabad,10,191,Private room,4,4,4,5741,5,4,4,"kitchen,lockers",197,No,0,Yes,1
+41,Ravali Womens Hostel,Hyderabad,Narsingi,6,220,Private room,4,4,4,6597,6,4,4,"gym space,kitchen",177,Yes,1,Yes,1
+42,Om Shiva Sai Boys Deluxe Hostel,Hyderabad,Shamshabad,11,214,6-bed dorm,4,4,4,6427,6,4,5,"game space,lounge,lockers,parking lot",48,Yes,1,Yes,1
+43,Prashanth Reddy Men's Hostel,Hyderabad,Nanalnagar,15,149,4-bed dorm,3,3,3,4459,4,3,4,"homely food,keycard access",411,Yes,1,Yes,1
+44,MUKUNDA PG HOSTEL FOR MENS AC & NON AC,Hyderabad,Panjagutta,7,96,3-bed dorm,2.5,2.5,2.5,2892,2,2.5,5,"keycard access,kitchen",289,Yes,1,Yes,1
+45,Sri Shabarisha Executive Boys Hostel,Hyderabad,Suncity,22,190,Private room,3.5,4,3.5,5691,5,3.5,5,"kitchen,TV",185,No,0,Yes,1
+46,Sai Balaji Delux Men's Hostel and Pg,Hyderabad,Aziznagar,24,229,6-bed dorm,4,4,4,6875,6,4,5,"lounge,gym space,homely food",133,No,0,Yes,1
+47,My Space Mens Pg Hostel,Hyderabad,Lakdikapul,5,134,Private room,3,2.5,2.5,4031,4,3,4,"game space,lounge,Pet-Friendly Facilities",288,No,0,Yes,1
+48,Sri Laxmi Executive Mens PG and Hostel,Hyderabad,Mehidipatnam,1,226,3-bed dorm,4,4,4,6770,6,4,2,"gym space,parking lot,homely food,Pet-Friendly Facilities",232,Yes,1,Yes,1
+49,Tanisha Boys Hostel,Hyderabad,Miyapur,18,213,Private room,4,4,4,6383,6,4,3,"gym space,homely food",341,No,0,Yes,1
+50,Jmj R V Boys Hostel,Hyderabad,Miyapur,18,229,3-bed dorm,4.5,4.5,4.5,6859,6,4.5,3,"homely food,parking lot",112,No,0,Yes,1
+51,Aarush Men's Luxury Pg Accommodation,Hyderabad,Kondapur,8,155,6-bed dorm,2.5,2.5,2.5,4654,4,2.5,4,"TV,keycard access",205,No,0,Yes,1
+52,Pearl Lotus Grand Boys Hostel,Hyderabad,Narsingi,6,239,6-bed dorm,4.5,4.5,4.5,7162,7,4.5,5,"outdoor space,homely food,lounge,game space",34,Yes,1,Yes,1
+53,Stay Inn PG For Womens Hostel,Hyderabad,Suncity,22,130,4-bed dorm,2.5,2.5,2.5,3892,3,2.5,5,"parking lot,lounge",359,Yes,1,Yes,1
+54,Charan Boys Hostel,Hyderabad,LB Nagar,20,152,4-bed dorm,3,3,3,4545,4,3,4,"homely food,CCTV surveillance",243,Yes,1,Yes,1
+55,Tanisha Boys Hostel,Hyderabad,Panjagutta,7,173,Private room,3.5,3.5,3.5,5190,5,3.5,4,"keycard access,lockers,kitchen",288,Yes,1,Yes,1
+56,VSR EXECUTIVE MEN'S HOSTEL,Hyderabad,Langerhouz,17,275,3-bed dorm,5,5,5,8263,8,5,4,"CCTV surveillance,gym space,outdoor space,Pet-Friendly Facilities",268,No,0,Yes,1
+57,Sri Manikanta Boys Hostel,Hyderabad,Mehidipatnam,1,167,6-bed dorm,3,3,3,5013,5,3,5,"lounge,gym space,parking lot",455,No,0,Yes,1
+58,Royal Executive Boys Hostel,Hyderabad,Narsingi,6,214,3-bed dorm,4,4,4,6425,6,4,3,"lockers,lounge,gym space,CCTV surveillance",260,Yes,1,Yes,1
+59,Pearl Lotus Grand Boys Hostel,Hyderabad,Mehidipatnam,1,263,6-bed dorm,4.5,5,5,7893,7,4.5,6,"game space,kitchen",146,No,0,Yes,1
+60,Sri Krishna Deluxe AC And Non AC PG & Boys Hostel,Hyderabad,Himayatnagar,16,241,Private room,4.5,4.5,5,7220,7,4.5,6,"gym space,homely food,TV,parking lot",161,Yes,1,Yes,1
+61,G A K Premium Boys Hostel,Hyderabad,Kondapur,8,234,6-bed dorm,4.5,4.5,4.5,7024,7,4.5,4,"TV,outdoor space",120,No,0,Yes,1
+62,Lasya Mens Hostel,Hyderabad,Attapur,12,281,3-bed dorm,5,5,5,8439,8,5,4,"gym space,CCTV surveillance,kitchen,Pet-Friendly Facilities",62,No,0,Yes,1
+63,Ravi Mens & Womens Hostel,Hyderabad,Kismatpur,14,150,Private room,3,3,3,4486,4,3,4,"gym space,game space",354,Yes,1,Yes,1
+64,Ravali Womens Hostel,Hyderabad,Kukatpally,3,193,3-bed dorm,4,4,4,5782,5,4,5,"outdoor space,keycard access,Pet-Friendly Facilities",271,No,0,Yes,1
+65,Kings Boys Hostel,Hyderabad,Langerhouz,17,176,3-bed dorm,3.5,3.5,3.5,5272,5,3.5,3,"parking lot,CCTV surveillance,outdoor space,homely food",367,Yes,1,Yes,1
+66,Sandhya Reddy Luxury Ladies Hostel,Hyderabad,Moinabad,10,162,4-bed dorm,3.5,3.5,3.5,4871,4,3,5,"outdoor space,kitchen",78,No,0,Yes,1
+67,Royal Executive Boys Hostel,Hyderabad,Budwel,13,117,4-bed dorm,2.5,2.5,2.5,3510,3,2.5,6,"game space,Pet-Friendly Facilities,gym space,TV",440,Yes,1,Yes,1
+68,Laksh Triveni Executive Hostel For Men,Hyderabad,Moinabad,10,174,3-bed dorm,3.5,3.5,3.5,5219,5,3.5,4,"CCTV surveillance,outdoor space,homely food",414,No,0,Yes,1
+69,Jmj R V Boys Hostel,Hyderabad,Bandlaguda Jagir,9,266,3-bed dorm,4.5,4.5,4.5,7980,7,4.5,2,"kitchen,gym space,lockers",393,No,0,Yes,1
+70,Sri Laxmi Executive Mens PG and Hostel,Hyderabad,Kukatpally,3,183,Private room,3.5,3.5,3.5,5498,5,3.5,5,"homely food,outdoor space",225,No,0,Yes,1
+71,G Cube Boys Hostel,Hyderabad,Kalimandir,23,161,Private room,3,3,3,4837,4,3,3,"game space,outdoor space",414,Yes,1,Yes,1
+72,Sri Manikanta Boys Hostel,Hyderabad,Kondapur,8,192,Private room,3.5,3.5,3.5,5771,5,3.5,3,"kitchen,CCTV surveillance",255,No,0,Yes,1
+73,Sree Ravi Relax Inn Men's PG Hostel,Hyderabad,Shamshabad,11,187,Private room,3.5,3.5,3.5,5608,5,3.5,3,"TV,Pet-Friendly Facilities,kitchen,CCTV surveillance",152,No,0,Yes,1
+74,Sree Srinivasa Deluxe Boys Hostel,Hyderabad,Bandlaguda Jagir,9,286,Private room,5,5,5,8582,8,5,4,"CCTV surveillance,game space,TV,gym space",74,No,0,Yes,1
+75,Sri Manikanta Boys Hostel,Hyderabad,Himayatnagar,16,223,Private room,4.5,4.5,4.5,6692,6,4.5,6,"lounge,CCTV surveillance,game space,kitchen",289,Yes,1,Yes,1
+76,Balaji Deluxe Mens Hostel,Hyderabad,Rajendranagar,25,255,6-bed dorm,5,5,5,7645,7,5,4,"gym space,CCTV surveillance,TV",307,No,0,Yes,1
+77,Raghu Boys Hostel,Hyderabad,Suncity,22,215,Private room,4,4,4.5,6450,6,4,3,"Pet-Friendly Facilities,lounge",258,Yes,1,Yes,1
+78,Om Shiva Sai Boys Deluxe Hostel,Hyderabad,Himayatnagar,16,183,3-bed dorm,3.5,3.5,3.5,5501,5,3.5,4,"kitchen,keycard access,homely food,Pet-Friendly Facilities",136,No,0,Yes,1
+79,Charan Luxury Boys & Girls Hostel,Hyderabad,Attapur,12,183,3-bed dorm,3.5,3.5,3.5,5479,5,3.5,4,"keycard access,parking lot,game space,outdoor space",232,Yes,1,Yes,1
+80,Vaibhav Gents Hostel,Hyderabad,Narsingi,6,215,6-bed dorm,4,4,4,6449,6,4,5,"lounge,kitchen",317,No,0,Yes,1
+81,Sree Vishnu Sai Men's PG Hostel,Hyderabad,Kukatpally,3,182,Private room,3.5,3.5,3.5,5460,5,3.5,3,"CCTV surveillance,parking lot,keycard access",89,No,0,Yes,1
+82,Sri Varun Pg For Womens (Women),Hyderabad,Shamshabad,11,165,6-bed dorm,2.5,2.5,2.5,4942,4,2.5,4,"homely food,parking lot,gym space",264,Yes,1,Yes,1
+83,K.V.M BOY'S HOSTEL,Hyderabad,Nanalnagar,15,268,Private room,4.5,5,5,8047,8,4.5,4,"parking lot,outdoor space",214,No,0,Yes,1
+84,Homestay Mens Pg and Coliving Hostel,Hyderabad,Panjagutta,7,193,3-bed dorm,3.5,3.5,3.5,5798,5,3.5,4,"gym space,game space,kitchen,Pet-Friendly Facilities",320,Yes,1,Yes,1
+85,PEARL LOTUS GRAND PG FOR WOMENS HOSTEL,Hyderabad,Rajendranagar,25,185,3-bed dorm,4,4,4,5560,5,4,5,"keycard access,game space,lounge,outdoor space",254,No,0,Yes,1
+86,Jmj R V Boys Hostel,Hyderabad,Gachibowli,2,209,Private room,4.5,4,4,6261,6,4,4,"keycard access,gym space,kitchen",289,No,0,Yes,1
+87,Sri Sai Balaji Deluxe Boys Hostel,Hyderabad,Himayatnagar,16,182,6-bed dorm,3,3,3,5470,5,3,4,"CCTV surveillance,Pet-Friendly Facilities,keycard access,lounge",128,No,0,Yes,1
+88,Ravi Mens & Womens Hostel,Hyderabad,LB Nagar,20,202,Private room,4,4,4,6066,6,4,3,"gym space,TV,kitchen",271,No,0,Yes,1
+89,Homestay Mens Pg and Coliving Hostel,Hyderabad,Attapur,12,237,6-bed dorm,4.5,4.5,4.5,7117,7,4.5,6,"lockers,Pet-Friendly Facilities,homely food,game space",264,No,0,Yes,1
+90,Annapurna Womens Hostel,Hyderabad,Suncity,22,179,4-bed dorm,3.5,3.5,3.5,5355,5,3.5,4,"gym space,Pet-Friendly Facilities,lockers,game space",330,No,0,Yes,1
+91,Bhavani Boys Hostel,Hyderabad,Narsingi,6,236,6-bed dorm,4.5,4.5,5,7083,7,4.5,4,"gym space,game space,keycard access",41,No,0,Yes,1
+92,Victory Boys Hostel,Hyderabad,Kondapur,8,213,3-bed dorm,4,4,4,6394,6,4,3,"game space,outdoor space,homely food",373,Yes,1,Yes,1
+93,Kaveri Boys Hostel,Hyderabad,Aziznagar,24,261,Private room,5,5,5,7823,7,5,4,"CCTV surveillance,outdoor space",27,No,0,Yes,1
+94,Sri Sai Balaji Luxury Mens PG,Hyderabad,Budwel,13,220,Private room,4,4,4,6588,6,4,5,"Pet-Friendly Facilities,outdoor space",147,Yes,1,Yes,1
+95,Teja Luxury Women's PG,Hyderabad,Kukatpally,3,167,3-bed dorm,3,3,3,5017,5,3,5,"CCTV surveillance,lockers,Pet-Friendly Facilities",210,Yes,1,Yes,1
+96,Sri Laxmi Executive Mens PG and Hostel,Hyderabad,Lakdikapul,5,214,3-bed dorm,4,3.5,4,6412,6,4,4,"gym space,Pet-Friendly Facilities,CCTV surveillance",55,No,0,Yes,1
+97,Tanisha Boys Hostel,Hyderabad,LB Nagar,20,125,3-bed dorm,2.5,3,3,3759,3,3.5,6,"Pet-Friendly Facilities,homely food,game space",289,Yes,1,Yes,1
+98,Vaibhav Executive Boys Hostel,Hyderabad,Aziznagar,24,189,6-bed dorm,3.5,3.5,3.5,5665,5,3.5,3,"gym space,parking lot,kitchen,Pet-Friendly Facilities",328,No,0,Yes,1
+99,G A K Premium Boys Hostel,Hyderabad,Amberpet,19,273,6-bed dorm,5,5,5,8197,8,5,5,"TV,gym space",300,No,0,Yes,1
+100,Sri Shabarisha Executive Boys Hostel,Hyderabad,Suncity,22,246,3-bed dorm,4.5,4.5,4.5,7369,7,4.5,4,"keycard access,Pet-Friendly Facilities,homely food,outdoor space",158,No,0,Yes,1
+101,Aarush Men's Luxury Pg Accommodation,Hyderabad,Aziznagar,24,248,6-bed dorm,4.5,4.5,4.5,7450,7,4.5,4,"gym space,homely food,lockers,game space",87,Yes,1,Yes,1
+102,Annapurna Womens Hostel,Hyderabad,Lakdikapul,5,233,Private room,4.5,4.5,4.5,7001,7,4,3,"kitchen,outdoor space,gym space,parking lot",338,No,0,Yes,1
+103,A S Hostels,Hyderabad,Budwel,13,267,6-bed dorm,5,5,5,7996,7,5,4,"gym space,CCTV surveillance,Pet-Friendly Facilities",390,No,0,Yes,1
+104,Sree Vishnu Sai Men's PG Hostel,Hyderabad,Panjagutta,7,224,4-bed dorm,4,4,4,6720,6,4,3,"lounge,Pet-Friendly Facilities",186,No,0,Yes,1
+105,Vijaya Lotus Executive Boys Hostel,Hyderabad,Narsingi,6,152,3-bed dorm,3,3,3,4550,4,33,6,"gym space,Pet-Friendly Facilities,lounge,CCTV surveillance",279,No,0,Yes,1
+106,Diya Reddy Mens PG and Hostel,Hyderabad,Amberpet,19,162,Private room,3.7,3.5,4,4863,4,4,5,"Pet-Friendly Facilities,game space,gym space,CCTV surveillance",451,Yes,1,Yes,1
+107,Ravali Womens Hostel,Hyderabad,Secunderabad,21,240,3-bed dorm,4.5,4,4.5,7210,7,4,4,"TV,game space",384,Yes,1,Yes,1
+108,Sri Laxmi Executive Mens PG and Hostel,Hyderabad,Panjagutta,7,258,Private room,4.5,4,4.5,7740,7,4.5,3,"parking lot,CCTV surveillance,kitchen,gym space",369,Yes,1,Yes,1
+109,Jmj R V Boys Hostel,Hyderabad,Himayatnagar,16,225,4-bed dorm,4.5,4.5,4.5,6737,6,4.5,6,"parking lot,lounge",57,No,0,Yes,1
+110,Vijaya Lotus Executive Boys Hostel,Hyderabad,Secunderabad,21,247,3-bed dorm,4.5,4,4.5,7424,7,4.5,3,"Pet-Friendly Facilities,outdoor space",404,Yes,1,Yes,1
+111,My Home Executive Pg and Hostels (Women),Hyderabad,Langerhouz,17,217,Private room,4,4,4,6515,6,4,4,"lockers,parking lot",372,Yes,1,Yes,1
+112,Glanbaxy Homes Pg For Women,Hyderabad,Budwel,13,192,3-bed dorm,3.5,3.5,3.5,5768,5,3.5,3,"parking lot,Pet-Friendly Facilities,TV",73,No,0,Yes,1
+113,Sri Lakshmi Boys Hostel,Hyderabad,Panjagutta,7,221,3-bed dorm,4,4,4,6639,6,4.5,3,"homely food,game space,TV,CCTV surveillance",34,No,0,Yes,1
+114,Sandhya Reddy Luxury Ladies Hostel,Hyderabad,Langerhouz,17,139,3-bed dorm,3,3,3,4155,4,3,5,"kitchen,CCTV surveillance,game space,parking lot",261,Yes,1,Yes,1
+115,Anuradha Deluxe Boys Hostel,Hyderabad,Kalimandir,23,175,3-bed dorm,3.5,3.5,3.5,5238,5,3.5,5,"Pet-Friendly Facilities,lounge,parking lot,keycard access",82,Yes,1,Yes,1
+116,Sri Bhardwaj Boys and Men's Hostel,Hyderabad,Madhapur,4,221,3-bed dorm,4,4,4,6636,6,4,6,"TV,lounge",226,Yes,1,Yes,1
+117,Homestay Mens Pg and Coliving Hostel,Hyderabad,LB Nagar,20,178,Private room,3.5,3.5,3.5,5340,5,3.5,5,"kitchen,outdoor space",122,No,0,Yes,1
+118,Vaibhav Executive Boys Hostel,Hyderabad,Panjagutta,7,218,6-bed dorm,4,4,4,6535,6,4,6,"gym space,outdoor space,lounge,lockers",180,No,0,Yes,1
+119,Denny's Luxurious Men's PG & Hostel,Hyderabad,Aziznagar,24,235,3-bed dorm,4.5,4.5,4.5,7039,7,4,3,"game space,lockers,kitchen",92,No,0,Yes,1
+120,Luckky Delux Boys & Girls Hostel & PG,Hyderabad,Himayatnagar,16,206,3-bed dorm,4,4,4,6191,6,4,2,"game space,homely food,keycard access,parking lot",318,No,0,Yes,1
+121,Pr Grand Mens Pg and Guest House,Hyderabad,Bandlaguda Jagir,9,121,4-bed dorm,2.5,2.5,2.5,3627,3,2.5,6,"game space,parking lot,TV",403,No,0,Yes,1
+122,Sri Krishna Executive Men's Hostel,Hyderabad,Miyapur,18,143,4-bed dorm,2.5,2.5,2.5,4292,4,2.5,6,"parking lot,lounge,CCTV surveillance",295,Yes,1,Yes,1
+123,Bunkers Boys Hostel,Hyderabad,Suncity,22,249,4-bed dorm,4.5,4.5,4.5,7468,7,4.5,5,"CCTV surveillance,TV,parking lot,kitchen",301,Yes,1,Yes,1
+124,MUKUNDA PG HOSTEL FOR MENS AC & NON AC,Hyderabad,Rajendranagar,25,218,6-bed dorm,4.5,4.5,4,6554,6,4.5,3,"game space,Pet-Friendly Facilities",91,Yes,1,Yes,1
+125,Kavuris Kvr Boys Hostel,Hyderabad,Himayatnagar,16,276,4-bed dorm,5,4.9,4.7,8266,8,5,5,"outdoor space,parking lot",289,Yes,1,Yes,1
+126,Pr Grand Mens Pg and Guest House,Hyderabad,Shamshabad,11,170,3-bed dorm,3,3,3,5113,5,3,4,"keycard access,homely food",321,No,0,Yes,1
+127,A S Hostels,Hyderabad,Kalimandir,23,177,4-bed dorm,3.5,3.5,3.5,5322,5,3.5,5,"gym space,outdoor space,homely food,Pet-Friendly Facilities",365,Yes,1,Yes,1
+128,Jmj R V Boys Hostel,Hyderabad,Himayatnagar,16,241,Private room,4.5,4.5,4.5,7220,7,4.5,5,"lockers,kitchen",357,Yes,1,Yes,1
+129,Cozy Rooms For Men's Hostels,Hyderabad,Langerhouz,17,208,6-bed dorm,4,4.5,4,6243,6,4,4,"outdoor space,kitchen,game space",93,No,0,Yes,1
+130,Teja Luxury Women's PG,Hyderabad,Miyapur,18,150,Private room,3,3,3,4500,4,3,5,"keycard access,CCTV surveillance,outdoor space,gym space",257,Yes,1,Yes,1
+131,Laksh Triveni Executive Hostel For Men,Hyderabad,Langerhouz,17,228,3-bed dorm,4.5,4,4.5,6831,6,4.5,4,"lockers,kitchen,parking lot",175,Yes,1,Yes,1
+132,Raghu Boys Hostel,Hyderabad,Mehidipatnam,1,183,6-bed dorm,3.5,3.5,3.5,5486,5,3.5,4,"gym space,CCTV surveillance,keycard access,homely food",378,No,0,Yes,1
+133,Sri Sai Balaji Deluxe Boys Hostel,Hyderabad,Attapur,12,222,Private room,4,4,4,6655,6,4,4,"Pet-Friendly Facilities,keycard access,TV",302,Yes,1,Yes,1
+134,Sree Srinivasa Deluxe Boys Hostel,Hyderabad,Madhapur,4,298,6-bed dorm,5,5,5,8945,8,5,6,"parking lot,lockers,homely food",223,No,0,Yes,1
+135,Charan Boys Hostel,Hyderabad,Nanalnagar,15,233,6-bed dorm,4,4,4,6988,6,4,4,"lockers,kitchen,gym space",98,Yes,1,Yes,1
+136,Sri Bhardwaj Boys and Men's Hostel,Hyderabad,Nanalnagar,15,255,4-bed dorm,4.5,4.5,4.5,7658,7,4.5,3,"kitchen,keycard access",319,Yes,1,Yes,1
+137,Glanbaxy Homes Pg For Women,Hyderabad,Kondapur,8,236,6-bed dorm,4.5,4.5,4.5,7091,7,4.5,3,"parking lot,lounge",255,No,0,Yes,1
+138,Sri sai boys Hostel,Hyderabad,Himayatnagar,16,277,6-bed dorm,5,4.6,4.5,8306,8,5,7,"homely food,lockers",261,No,0,Yes,1
+139,Charan Boys Hostel,Hyderabad,Budwel,13,184,3-bed dorm,3.5,3.5,4,5533,5,3.5,4,"gym space,lockers,game space",376,Yes,1,Yes,1
+140,Homestay Mens Pg and Coliving Hostel,Hyderabad,Gachibowli,2,283,Private room,5,5,4.5,8478,8,4.5,5,"homely food,gym space",324,No,0,Yes,1
+141,Ravi Relax Inn Mens PG Hostel,Hyderabad,Nanalnagar,15,179,4-bed dorm,3.5,3.5,3.5,5368,5,3.5,4,"homely food,game space,gym space",102,Yes,1,Yes,1
+142,Sri Sai Balaji Luxury Mens PG,Hyderabad,Rajendranagar,25,174,6-bed dorm,3.5,3.5,3.5,5214,5,3.5,6,"kitchen,keycard access,parking lot,CCTV surveillance",107,Yes,1,Yes,1
+143,Ravi Relax Inn Mens PG Hostel,Hyderabad,Moinabad,10,283,4-bed dorm,5,5,5,8477,8,5,5,"game space,gym space,lockers",105,Yes,1,Yes,1
+144,Rama Men's PG Hostel,Hyderabad,LB Nagar,20,235,4-bed dorm,4.5,4.5,4.5,7056,7,4.5,3,"homely food,lounge",164,Yes,1,Yes,1
+145,Teja Luxury Women's PG,Hyderabad,Narsingi,6,224,Private room,4,4,4,6728,6,4,4,"game space,kitchen",325,No,0,Yes,1
+146,Rama Men's PG Hostel,Hyderabad,Suncity,22,130,3-bed dorm,2.5,2.5,2.5,3885,3,2.5,6,"kitchen,Pet-Friendly Facilities,CCTV surveillance,parking lot",470,No,0,Yes,1
+147,Jmj R V Boys Hostel,Hyderabad,Madhapur,4,230,6-bed dorm,4,4,4,6905,6,4.5,4,"game space,parking lot,lockers,TV",177,No,0,Yes,1
+148,Sri Parameshwari Deluxe women Hostels,Hyderabad,Kalimandir,23,264,4-bed dorm,5,5,5,7923,7,5,4,"Pet-Friendly Facilities,gym space,TV,lockers",48,Yes,1,Yes,1
+149,A S Hostels,Hyderabad,Mehidipatnam,1,249,6-bed dorm,4.5,4.5,4.5,7466,7,4.5,5,"homely food,outdoor space",373,Yes,1,Yes,1
+150,Bhavani Boys Hostel,Hyderabad,Rajendranagar,25,130,3-bed dorm,3,3,3,3906,3,3,5,"lockers,outdoor space,game space,TV",452,Yes,1,Yes,1
+151,Pr Grand Mens Pg and Guest House,Hyderabad,LB Nagar,20,126,Private room,3,3,3,3780,3,3,6,"outdoor space,gym space",257,No,0,Yes,1
+152,Kavuris Kvr Boys Hostel,Hyderabad,Langerhouz,17,273,Private room,5,5,5,8190,8,5,4,"keycard access,parking lot",199,Yes,1,Yes,1
+153,My Space Mens Pg Hostel,Hyderabad,Suncity,22,138,3-bed dorm,3,3,3,4130,4,3,5,"keycard access,homely food,TV",73,No,0,Yes,1
+154,VSR EXECUTIVE MEN'S HOSTEL,Hyderabad,Aziznagar,24,200,6-bed dorm,3.5,3.5,3.5,6003,6,3.5,5,"gym space,outdoor space,keycard access,kitchen",344,No,0,Yes,1
+155,Sri Thirumalai Mens Pg Hostel,Hyderabad,LB Nagar,20,255,4-bed dorm,4.5,5,5,7653,7,5,5,"parking lot,game space,Pet-Friendly Facilities",258,Yes,1,Yes,1
+156,Sandhya Reddy Luxury Ladies Hostel,Hyderabad,Kukatpally,3,298,Private room,5,5,5,8947,8,5,5,"outdoor space,TV,homely food,CCTV surveillance",18,No,0,Yes,1
+157,Sravani Deluxe Ladies Hostel,Hyderabad,Miyapur,18,229,4-bed dorm,4.5,4.5,4.5,6870,6,4.5,3,"kitchen,TV,outdoor space",20,Yes,1,Yes,1
+158,Sri Varun Pg For Womens (Women),Hyderabad,Kukatpally,3,227,Private room,4.5,4.5,4.5,6802,6,4.5,3,"game space,kitchen,gym space",87,Yes,1,Yes,1
+159,Sree Srinivasa Deluxe Boys Hostel,Hyderabad,LB Nagar,20,226,4-bed dorm,4.5,4.5,4.5,6793,6,4.5,4,"TV,outdoor space,homely food,lounge",28,Yes,1,Yes,1
+160,Siri Deluxe PG Accommodation Men,Hyderabad,LB Nagar,20,193,6-bed dorm,3.5,3.5,3.5,5803,5,3.5,4,"kitchen,homely food",317,No,0,Yes,1
+161,Sri Lakshmi Boys Hostel,Hyderabad,Mehidipatnam,1,255,3-bed dorm,4.5,4.5,4.5,7660,7,4.5,4,"lockers,Pet-Friendly Facilities,game space,outdoor space",78,Yes,1,Yes,1
+162,ROHAN MEN'S PG,Hyderabad,Moinabad,10,188,4-bed dorm,4,4,4,5652,5,4,4,"CCTV surveillance,game space",416,Yes,1,Yes,1
+163,Sai Balaji Delux Men's Hostel and Pg,Hyderabad,Nanalnagar,15,129,4-bed dorm,2.5,2.5,2.5,3859,3,2.5,4,"lounge,homely food,Pet-Friendly Facilities,keycard access",290,Yes,1,Yes,1
+164,Sri Lakshmi Boys Hostel,Hyderabad,Aziznagar,24,179,Private room,3,3,3,5355,5,3,5,"outdoor space,keycard access,game space",360,Yes,1,Yes,1
+165,Balaji Deluxe Mens Hostel,Hyderabad,Moinabad,10,173,6-bed dorm,3.5,3.5,3.5,5186,5,3.5,4,"parking lot,gym space,game space,outdoor space",79,No,0,Yes,1
+166,Pearl Lotus Grand Boys Hostel,Hyderabad,Narsingi,6,282,3-bed dorm,5,5,5,8457,8,5,5,"gym space,kitchen,parking lot",15,No,0,Yes,1
+167,Pearl Lotus Grand Boys Hostel,Hyderabad,Miyapur,18,181,6-bed dorm,3.5,3.5,3.5,5439,5,3.5,4,"lockers,gym space",395,Yes,1,Yes,1
+168,Charan Luxury Boys & Girls Hostel,Hyderabad,Bandlaguda Jagir,9,270,Private room,4.5,5,4.5,8086,8,5,2,"Pet-Friendly Facilities,CCTV surveillance,outdoor space",131,No,0,Yes,1
+169,Sri sai boys Hostel,Hyderabad,Budwel,13,281,3-bed dorm,5,5,5,8416,8,5,4,"homely food,TV,outdoor space,kitchen",90,Yes,1,Yes,1
+170,Sri Lakshmi Boys Hostel,Hyderabad,Suncity,22,222,3-bed dorm,4,4,4,6674,6,4,4,"outdoor space,lounge",31,No,0,Yes,1
+171,Vaibhav Gents Hostel,Hyderabad,Suncity,22,234,Private room,4.5,4.5,4.5,7025,7,4.5,4,"lounge,game space,outdoor space,Pet-Friendly Facilities",54,Yes,1,Yes,1
+172,Sri Sai Executive Boys Hostel,Hyderabad,Himayatnagar,16,200,3-bed dorm,3.5,3.5,3.5,6003,6,3.5,2,"lockers,keycard access,lounge",430,Yes,1,Yes,1
+173,G Cube Boys Hostel,Hyderabad,Budwel,13,265,Private room,5,5,5,7960,7,5,4,"lockers,CCTV surveillance,gym space",79,No,0,Yes,1
+174,PEARL LOTUS GRAND PG FOR WOMENS HOSTEL,Hyderabad,Panjagutta,7,266,6-bed dorm,5,4.5,5,7976,7,5,2,"Pet-Friendly Facilities,TV,game space",191,No,0,Yes,1
+175,Sri Varun Pg For Womens (Women),Hyderabad,Moinabad,10,250,4-bed dorm,4.5,4.5,4.5,7488,7,4.5,5,"lockers,parking lot,keycard access",184,No,0,Yes,1
+176,Aarush Men's Luxury Pg Accommodation,Hyderabad,Panjagutta,7,132,Private room,2.5,2.5,2.5,3952,3,2.5,4,"keycard access,Pet-Friendly Facilities",463,No,0,Yes,1
+177,Sri Laxmi Executive Mens PG and Hostel,Hyderabad,Suncity,22,231,Private room,4,4,4,6926,6,4,6,"CCTV surveillance,keycard access,lounge",106,Yes,1,Yes,1
+178,Sri Sai Executive Boys Hostel,Hyderabad,Kalimandir,23,197,6-bed dorm,4,4,4,5903,5,4,4,"game space,outdoor space,homely food",355,No,0,Yes,1
+179,Sri Sai Executive Boys Hostel,Hyderabad,Panjagutta,7,149,6-bed dorm,3,3,3,4472,4,3,3,"lockers,game space,parking lot",337,Yes,1,Yes,1
+180,Kaveri Boys Hostel,Hyderabad,Gachibowli,2,190,3-bed dorm,4,4,4,5710,5,4,4,"homely food,TV,parking lot,lounge",78,Yes,1,Yes,1
+181,Pr Grand Mens Pg and Guest House,Hyderabad,Miyapur,18,147,3-bed dorm,2.5,2.5,2.5,4403,4,2.5,5,"lounge,kitchen,outdoor space,Pet-Friendly Facilities",93,Yes,1,Yes,1
+182,Kishore's Boys Hostel,Hyderabad,Rajendranagar,25,238,4-bed dorm,4.54,4.5,4.5,7145,7,4.5,4,"Pet-Friendly Facilities,keycard access,outdoor space,CCTV surveillance",345,No,0,Yes,1
+183,Pr Grand Mens Pg and Guest House,Hyderabad,Shamshabad,11,258,3-bed dorm,4.5,4.5,4.5,7734,7,4.5,4,"game space,lockers,Pet-Friendly Facilities",158,No,0,Yes,1
+184,Sri Lakshmi Boys Hostel,Hyderabad,Panjagutta,7,165,Private room,3,3,3,4940,4,3,4,"lounge,TV,kitchen,homely food",200,Yes,1,Yes,1
+185,Cozy Rooms For Men's Hostels,Hyderabad,Kukatpally,3,249,4-bed dorm,4.5,4.5,4.5,7464,7,4.5,4,"game space,lockers",139,Yes,1,Yes,1
+186,Sree Srinivasa Deluxe Boys Hostel,Hyderabad,Secunderabad,21,249,Private room,4.5,4.5,4.5,7484,7,4.5,3,"homely food,kitchen",417,Yes,1,Yes,1
+187,My Space Mens Pg Hostel,Hyderabad,Kalimandir,23,244,4-bed dorm,5,4.5,4.5,7324,7,5,4,"parking lot,CCTV surveillance,kitchen",167,No,0,Yes,1
+188,Pearl Lotus Grand Boys Hostel,Hyderabad,Bandlaguda Jagir,9,173,6-bed dorm,3.5,3.5,3.5,5185,5,3,4,"keycard access,lockers",434,Yes,1,Yes,1
+189,Sri Krishna Executive Men's Hostel,Hyderabad,Mehidipatnam,1,150,4-bed dorm,3,3,3,4508,4,3,3,"gym space,lounge,Pet-Friendly Facilities,lockers",431,Yes,1,Yes,1
+190,Sri Krishna Deluxe AC And Non AC PG & Boys Hostel,Hyderabad,Aziznagar,24,256,3-bed dorm,5,5,4.5,7683,7,4.5,7,"outdoor space,Pet-Friendly Facilities,CCTV surveillance,lounge",257,No,0,Yes,1
+191,Sri Thirumalai Mens Pg Hostel,Hyderabad,Mehidipatnam,1,168,3-bed dorm,3.5,3.5,3.5,5033,5,3.5,3,"TV,gym space,Pet-Friendly Facilities,lockers",196,Yes,1,Yes,1
+192,G Cube Boys Hostel,Hyderabad,Lakdikapul,5,177,4-bed dorm,3.5,3,3.5,5297,5,3.5,4,"game space,Pet-Friendly Facilities",80,Yes,1,Yes,1
+193,Tirumala Womens Hostel and Pg,Hyderabad,Budwel,13,217,6-bed dorm,4,4,4,6512,6,4,4,"game space,parking lot,lounge",401,Yes,1,Yes,1
+194,Prashanth Reddy Men's Hostel,Hyderabad,Budwel,13,257,4-bed dorm,4.5,4.5,4.5,7707,7,4.5,5,"keycard access,homely food,TV,kitchen",135,No,0,Yes,1
+195,Pearl Lotus Grand Boys Hostel,Hyderabad,Kismatpur,14,182,4-bed dorm,3,3,3,5463,5,3,6,"keycard access,outdoor space,parking lot,Pet-Friendly Facilities",62,Yes,1,Yes,1
+196,Cozy Rooms For Men's Hostels,Hyderabad,Mehidipatnam,1,228,6-bed dorm,4,4,4,6841,6,4,3,"gym space,lounge,game space",397,No,0,Yes,1
+197,Jmj R V Boys Hostel,Hyderabad,Rajendranagar,25,209,Private room,4,4,4,6278,6,4,4,"homely food,parking lot,CCTV surveillance,game space",148,No,0,Yes,1
+198,Vaibhav Executive Boys Hostel,Hyderabad,Budwel,13,221,4-bed dorm,4,4,4,6619,6,4,4,"game space,homely food",50,Yes,1,Yes,1
+199,Jmj R V Boys Hostel,Hyderabad,Budwel,13,211,6-bed dorm,4,4,3.5,6338,6,4,5,"parking lot,kitchen,gym space",356,No,0,Yes,1
+200,My Home Executive Pg and Hostels (Women),Hyderabad,Langerhouz,17,225,4-bed dorm,4.5,4,4.5,6744,6,4.5,5,"TV,CCTV surveillance,parking lot,homely food",137,No,0,Yes,1
+201,My Space Mens Pg Hostel,Hyderabad,Kondapur,8,285,4-bed dorm,5,5,5,8554,8,5,2,"TV,gym space",36,No,0,Yes,1
+202,Sri Comfort Inn Boys Deluxe Hostel,Hyderabad,Narsingi,6,152,6-bed dorm,3.5,3.5,3.5,4554,4,3.5,4,"Pet-Friendly Facilities,TV,kitchen",147,Yes,1,Yes,1
+203,Prashanth Reddy Men's Hostel,Hyderabad,Budwel,13,225,3-bed dorm,4,4,4,6737,6,4,2,"gym space,Pet-Friendly Facilities",341,No,0,Yes,1
+204,Tirumala Womens Hostel and Pg,Hyderabad,Kalimandir,23,227,6-bed dorm,4.5,4.5,4.5,6807,6,4.5,5,"lockers,parking lot,CCTV surveillance",359,No,0,Yes,1
+205,Deluxe Hostel,Hyderabad,LB Nagar,20,271,6-bed dorm,5,5,5,8135,8,5,2,"game space,kitchen,lockers,homely food",338,Yes,1,Yes,1
+206,Sri Laxmi Executive Mens PG and Hostels,Hyderabad,Madhapur,4,130,Private room,3.5,3.5,3.5,3888,3,3.5,4,"lounge,homely food,gym space",235,No,0,Yes,1
+207,Kavuris Kvr Boys Hostel,Hyderabad,Gachibowli,2,178,4-bed dorm,3.5,4.5,3.5,5337,5,3.5,6,"gym space,CCTV surveillance",93,Yes,1,Yes,1
+208,Pr Grand Mens Pg and Guest House,Hyderabad,Suncity,22,240,6-bed dorm,4.5,4.5,4.5,7196,7,4.5,5,"parking lot,TV,lockers,kitchen",294,Yes,1,Yes,1
+209,Vijaya Lotus Executive Boys Hostel,Hyderabad,Secunderabad,21,239,4-bed dorm,4,4,4,7155,7,4,6,"Pet-Friendly Facilities,CCTV surveillance,TV",264,Yes,1,Yes,1
+210,Last Benchers Boys Hostel,Hyderabad,Madhapur,4,233,4-bed dorm,4.5,4.5,4.5,6985,6,4.5,4,"TV,lounge,Pet-Friendly Facilities,parking lot",325,Yes,1,Yes,1
+211,Ravali Womens Hostel,Hyderabad,Budwel,13,126,4-bed dorm,3,3,3,3788,3,3,4,"game space,parking lot",251,Yes,1,Yes,1
+212,Sri Bhardwaj Boys and Men's Hostel,Hyderabad,Rajendranagar,25,250,4-bed dorm,5,5,5,7496,7,5,5,"gym space,lounge,lockers",412,No,0,Yes,1
+213,Royal Executive Boys Hostel,Hyderabad,Narsingi,6,173,4-bed dorm,3.5,4,4,5186,5,3.5,5,"gym space,homely food",233,Yes,1,Yes,1
+214,Ravi Relax Inn Mens PG Hostel,Hyderabad,Kukatpally,3,218,4-bed dorm,4,4,4,6526,6,4,4,"parking lot,lockers,homely food",279,No,0,Yes,1
+215,Shalom Beth Guest House - For Men,Hyderabad,Kondapur,8,165,4-bed dorm,3,3,3,4956,4,3,4,"gym space,game space,outdoor space",270,Yes,1,Yes,1
+216,G Cube Boys Hostel,Hyderabad,Suncity,22,172,3-bed dorm,3.5,3.5,3.5,5154,5,3.5,5,"TV,gym space,CCTV surveillance,parking lot",301,No,0,Yes,1
+217,Sri Lakshmi Boys Hostel,Hyderabad,Shamshabad,11,190,Private room,4,4,4,5688,5,4,4,"Pet-Friendly Facilities,parking lot,game space",319,Yes,1,Yes,1
+218,G A K Premium Boys Hostel,Hyderabad,Langerhouz,17,222,Private room,4,4,4,6665,6,4,2,"lounge,lockers,TV,homely food",193,No,0,Yes,1
+219,Laksh Triveni Executive Hostel For Men,Hyderabad,Narsingi,6,230,Private room,4,4.5,4,6893,6,4.5,5,"parking lot,keycard access",163,Yes,1,Yes,1
+220,Sri Parameshwari Deluxe Boys Hostels,Hyderabad,Rajendranagar,25,181,4-bed dorm,3.5,3.5,3.5,5421,5,3.5,5,"game space,homely food,gym space",344,No,0,Yes,1
+221,Prashanth Reddy Men's Hostel,Hyderabad,Lakdikapul,5,232,6-bed dorm,4.5,4,4,6946,6,4,2,"Pet-Friendly Facilities,TV,parking lot,CCTV surveillance",73,No,0,Yes,1
+222,Sri Krishna Executive Men's Hostel,Hyderabad,Aziznagar,24,257,6-bed dorm,5,4.5,4.5,7718,7,5,4,"homely food,CCTV surveillance,lounge,kitchen",278,Yes,1,Yes,1
+223,Kaveri Boys Hostel,Hyderabad,Suncity,22,221,3-bed dorm,4,4,4,6630,6,4,5,"parking lot,lounge,keycard access,CCTV surveillance",250,Yes,1,Yes,1
+224,Sree Srinivasa Deluxe Boys Hostel,Hyderabad,Nanalnagar,15,250,3-bed dorm,4.5,4.5,4.5,7494,7,4.5,4,"CCTV surveillance,lockers,Pet-Friendly Facilities",315,Yes,1,Yes,1
+225,PEARL LOTUS GRAND PG FOR WOMENS HOSTEL,Hyderabad,Shamshabad,11,259,4-bed dorm,4.5,4.5,4.5,7763,7,4.5,7,"outdoor space,TV",207,No,0,Yes,1
+226,Victory Boys Hostel,Hyderabad,Moinabad,10,118,Private room,3,3,3,3543,3,2.5,6,"TV,parking lot,CCTV surveillance",408,Yes,1,Yes,1
+227,Prashanth Reddy Men's Hostel,Hyderabad,Bandlaguda Jagir,9,203,Private room,4,4,4,6101,6,4,4,"gym space,keycard access",249,Yes,1,Yes,1
+228,My Space Mens Pg Hostel,Hyderabad,Kalimandir,23,173,6-bed dorm,3.5,3.5,4,5183,5,3.5,4,"outdoor space,keycard access,TV,lounge",190,No,0,Yes,1
+229,Sri Shabarisha Executive Boys Hostel,Hyderabad,Shamshabad,11,141,Private room,2.5,2.5,2.5,4220,4,2.5,4,"homely food,lockers,game space,gym space",166,No,0,Yes,1
+230,SRI KARTHIKEYA EXECUTIVE MENS HOSTEL,Hyderabad,Miyapur,18,213,6-bed dorm,4,4,4,6385,6,4,5,"parking lot,kitchen,keycard access",252,No,0,Yes,1
+231,Charan Luxury Boys & Girls Hostel,Hyderabad,Madhapur,4,244,3-bed dorm,4.5,4.5,4.5,7330,7,4.5,3,"kitchen,Pet-Friendly Facilities,gym space,lockers",175,No,0,Yes,1
+232,Ravi Relax Inn Mens PG Hostel,Hyderabad,Amberpet,19,240,3-bed dorm,4.5,4.5,4.5,7186,7,4.5,2,"parking lot,lockers",255,Yes,1,Yes,1
+233,Victory Boys Hostel,Hyderabad,Nanalnagar,15,154,3-bed dorm,3,3,3,4619,4,3,4,"outdoor space,homely food,keycard access,CCTV surveillance",271,Yes,1,Yes,1
+234,Diya Reddy Mens PG and Hostel,Hyderabad,Kondapur,8,204,3-bed dorm,4,4,4,6108,6,4,3,"keycard access,lockers",332,No,0,Yes,1
+235,Jmj R V Boys Hostel,Hyderabad,Kondapur,8,125,3-bed dorm,2.5,2.5,2.5,3758,3,2.5,6,"lounge,game space,keycard access",71,Yes,1,Yes,1
+236,Sri Krishna Executive Men's Hostel,Hyderabad,Attapur,12,201,3-bed dorm,3.5,3.5,4,6017,6,4,6,"lounge,game space",334,Yes,1,Yes,1
+237,Jmj R V Boys Hostel,Hyderabad,Moinabad,10,156,3-bed dorm,3,3,3,4683,4,3,5,"outdoor space,homely food,game space,TV",236,Yes,1,Yes,1
+238,Homestay Mens Pg and Coliving Hostel,Hyderabad,Langerhouz,17,183,4-bed dorm,3.5,3.5,3.5,5485,5,3.5,3,"kitchen,homely food,Pet-Friendly Facilities,lockers",165,Yes,1,Yes,1
+239,A S Hostels,Hyderabad,Bandlaguda Jagir,9,163,3-bed dorm,3,3,3,4879,4,3,6,"CCTV surveillance,gym space,Pet-Friendly Facilities,keycard access",166,No,0,Yes,1
+240,Sri Varun Pg For Womens (Women),Hyderabad,Kismatpur,14,189,3-bed dorm,3.5,3.5,3.5,5658,5,4,4,"kitchen,parking lot,lounge",403,Yes,1,Yes,1
+241,ROHAN MEN'S PG,Hyderabad,Gachibowli,2,187,4-bed dorm,4,4,4,5622,5,4,2,"gym space,game space,TV",69,No,0,Yes,1
+242,Shalom Beth Guest House - For Men,Hyderabad,Aziznagar,24,253,4-bed dorm,5,4.5,4.5,7602,7,4.5,4,"outdoor space,kitchen,TV,lockers",389,No,0,Yes,1
+243,Bunkers Boys Hostel,Hyderabad,Madhapur,4,227,6-bed dorm,4,4,4,6802,6,4.5,3,"keycard access,outdoor space,homely food,lockers",335,No,0,Yes,1
+244,Vaibhav Executive Boys Hostel,Hyderabad,Kismatpur,14,227,3-bed dorm,4,4,4,6806,6,4,5,"Pet-Friendly Facilities,outdoor space,gym space,keycard access",42,Yes,1,Yes,1
+245,Pearl Lotus Grand Boys Hostel,Hyderabad,Secunderabad,21,160,Private room,3.5,3.5,3.5,4791,4,3.5,4,"kitchen,outdoor space,lounge",451,Yes,1,Yes,1
+246,White House Mens Hostel,Hyderabad,Kismatpur,14,232,6-bed dorm,4,4,4,6962,6,4.5,4,"CCTV surveillance,parking lot",418,Yes,1,Yes,1
+247,Charan Luxury Boys & Girls Hostel,Hyderabad,Attapur,12,157,6-bed dorm,3.5,3.5,3.5,4713,4,3.5,5,"lockers,lounge,parking lot",462,Yes,1,Yes,1
+248,Sree Ravi Relax Inn Men's PG Hostel,Hyderabad,Mehidipatnam,1,238,3-bed dorm,4.5,4.5,4.5,7152,7,4.5,3,"game space,lounge,TV,homely food",294,Yes,1,Yes,1
+249,My Space Mens Pg Hostel,Hyderabad,Madhapur,4,123,Private room,3,3,3,3676,3,3,6,"TV,gym space,homely food",261,Yes,1,Yes,1
+250,Sri Sai Ladies Deluxe Hostel (Women),Hyderabad,Narsingi,6,167,3-bed dorm,3.5,3.5,3.5,5015,5,3.5,3,"Pet-Friendly Facilities,homely food",223,Yes,1,Yes,1
+251,Sun Valley Womens Hostel,Hyderabad,Kalimandir,23,194,Private room,4,4,4,5815,5,4,5,"kitchen,TV,homely food,gym space",380,Yes,1,Yes,1
+252,A S Hostels,Hyderabad,Lakdikapul,5,255,Private room,4.5,4.5,4.5,7660,7,4.5,2,"outdoor space,Pet-Friendly Facilities",278,No,0,Yes,1
+253,Sri Krishna Executive Men's Hostel,Hyderabad,Lakdikapul,5,222,6-bed dorm,4,4,4,6656,6,4,5,"CCTV surveillance,keycard access",70,Yes,1,Yes,1
+254,My Home Executive Pg and Hostels (Women),Hyderabad,Attapur,12,214,4-bed dorm,4,4,4,6425,6,4,5,"Pet-Friendly Facilities,game space,gym space,lounge",396,No,0,Yes,1
+255,Sri Sai Ladies Deluxe Hostel (Women),Hyderabad,Langerhouz,17,257,4-bed dorm,5,5,5,7720,7,4.5,3,"TV,game space",266,Yes,1,Yes,1
+256,Charan Boys Hostel,Hyderabad,Rajendranagar,25,248,3-bed dorm,4.5,4.5,4.5,7437,7,4.5,4,"gym space,kitchen",87,No,0,Yes,1
+257,G Cube Boys Hostel,Hyderabad,LB Nagar,20,234,6-bed dorm,4.5,4.5,4.5,7013,7,4.5,5,"lounge,parking lot,gym space",241,No,0,Yes,1
+258,Vaibhav Executive Boys Hostel,Hyderabad,Gachibowli,2,300,6-bed dorm,5,5,5,9005,9,5,4,"lockers,homely food,keycard access,TV",146,Yes,1,Yes,1
+259,Homestay Mens Pg and Coliving Hostel,Hyderabad,Madhapur,4,278,4-bed dorm,5,5,5,8342,8,5,8,"lockers,parking lot,keycard access,Pet-Friendly Facilities",106,Yes,1,Yes,1
+260,My Home Executive Pg and Hostels (Women),Hyderabad,Panjagutta,7,144,Private room,3,3,3,4329,4,3,6,"outdoor space,lockers,TV",165,Yes,1,Yes,1
+261,Armani Boys Hostel,Hyderabad,Langerhouz,17,219,4-bed dorm,4,4,4,6555,6,4,5,"homely food,game space,Pet-Friendly Facilities,keycard access",412,No,0,Yes,1
+262,Vaishnavi Pg Accomodation,Hyderabad,Narsingi,6,290,6-bed dorm,5,5,5,8693,8,5,4,"keycard access,kitchen,Pet-Friendly Facilities,parking lot",52,Yes,1,Yes,1
+263,Sri Laxmi Executive Mens PG and Hostels,Hyderabad,Nanalnagar,15,182,3-bed dorm,3.5,3.5,3.5,5468,5,3.5,6,"lounge,homely food,CCTV surveillance,Pet-Friendly Facilities",266,Yes,1,Yes,1
+264,Sri Sai Balaji Deluxe Boys Hostel,Hyderabad,Kondapur,8,289,3-bed dorm,5,5,5,8679,8,5,3,"kitchen,outdoor space,parking lot,Pet-Friendly Facilities",132,No,0,Yes,1
+265,Sri Satya Deva Mens Pg,Hyderabad,Miyapur,18,151,6-bed dorm,3,3,3,4518,4,3,4,"Pet-Friendly Facilities,lockers",333,No,0,Yes,1
+266,Royal Executive Boys Hostel,Hyderabad,Nanalnagar,15,181,Private room,3.5,3.5,3.5,5433,5,3.5,3,"Pet-Friendly Facilities,CCTV surveillance,parking lot",73,No,0,Yes,1
+267,Sri Satya Deva Mens Pg,Hyderabad,Himayatnagar,16,217,3-bed dorm,4,4,4,6498,6,4,4,"game space,lounge",394,No,0,Yes,1
+268,Vaishnavi Pg Accomodation,Hyderabad,Attapur,12,157,6-bed dorm,3.5,3.5,3,4701,4,3.5,4,"CCTV surveillance,homely food,outdoor space,lockers",286,Yes,1,Yes,1
+269,Charan Luxury Boys & Girls Hostel,Hyderabad,Aziznagar,24,221,4-bed dorm,4,4,4,6625,6,4,5,"Pet-Friendly Facilities,parking lot",150,Yes,1,Yes,1
+270,K.V.M BOY'S HOSTEL,Hyderabad,Lakdikapul,5,278,6-bed dorm,5,5,5,8332,8,5,2,"CCTV surveillance,Pet-Friendly Facilities",385,Yes,1,Yes,1
+271,My Space Mens Pg Hostel,Hyderabad,Shamshabad,11,187,3-bed dorm,3.5,3.5,3.5,5616,5,3.5,4,"lounge,gym space",214,No,0,Yes,1
+272,Sri Sai Ladies Deluxe Hostel (Women),Hyderabad,Shamshabad,11,283,3-bed dorm,5,5,5,8500,8,5,5,"lockers,keycard access",131,Yes,1,Yes,1
+273,Deloite Boys Hostel,Hyderabad,Kondapur,8,227,3-bed dorm,4.5,4.5,4.5,6808,6,4.5,4,"keycard access,game space,Pet-Friendly Facilities",270,Yes,1,Yes,1
+274,Charan Boys Hostel,Hyderabad,Kondapur,8,196,4-bed dorm,3.5,3.5,3.5,5883,5,3.5,5,"TV,homely food,keycard access,lockers",333,Yes,1,Yes,1
+275,Bunkers Boys Hostel,Hyderabad,Miyapur,18,266,Private room,5,5,5,7968,7,5,3,"CCTV surveillance,Pet-Friendly Facilities,keycard access,lounge",319,Yes,1,Yes,1
+276,Laksh Triveni Executive Hostel For Men,Hyderabad,Amberpet,19,214,Private room,4,4,4,6418,6,4,5,"TV,homely food,lockers,keycard access",338,Yes,1,Yes,1
+277,Ravi Mens & Womens Hostel,Hyderabad,Bandlaguda Jagir,9,186,3-bed dorm,3.5,3.5,3.5,5578,5,3.5,4,"gym space,keycard access",277,Yes,1,Yes,1
+278,Sandhya Reddy Luxury Ladies Hostel,Hyderabad,Budwel,13,195,Private room,3.5,3.5,3.5,5837,5,4,4,"lounge,gym space,parking lot",54,No,0,Yes,1
+279,Jmj R V Boys Hostel,Hyderabad,Gachibowli,2,288,4-bed dorm,5,5,5,8639,8,5,6,"lockers,kitchen,outdoor space",354,No,0,Yes,1
+280,A S Hostels,Hyderabad,Himayatnagar,16,138,3-bed dorm,3,3,3,4145,4,3,4,"Pet-Friendly Facilities,outdoor space,lounge,kitchen",365,No,0,Yes,1
+281,Ravi Relax Inn Mens PG Hostel,Hyderabad,Langerhouz,17,236,3-bed dorm,4.5,4.5,4.5,7070,7,4.5,3,"game space,gym space,TV,lockers",368,Yes,1,Yes,1
+282,B V Reddy Mens Pg Hostel,Hyderabad,Langerhouz,17,132,4-bed dorm,3,3,3,3960,3,3,4,"outdoor space,gym space,CCTV surveillance",302,Yes,1,Yes,1
+283,Sri Laxmi Executive Mens PG and Hostels,Hyderabad,Lakdikapul,5,194,6-bed dorm,3.5,3.5,3.5,5833,5,3.5,3,"gym space,game space,kitchen",79,No,0,Yes,1
+284,Anuradha Deluxe Boys Hostel,Hyderabad,Attapur,12,228,3-bed dorm,4,4,4,6850,6,4,3,"lockers,homely food,keycard access",56,No,0,Yes,1
+285,Deloite Boys Hostel,Hyderabad,Rajendranagar,25,220,3-bed dorm,4.5,4,4.5,6610,6,4.5,2,"gym space,Pet-Friendly Facilities,TV",132,No,0,Yes,1
+286,Stay Inn PG For Womens Hostel,Hyderabad,Gachibowli,2,143,Private room,3,3,3,4277,4,3,4,"parking lot,keycard access,CCTV surveillance,homely food",70,Yes,1,Yes,1
+287,Luckky Delux Boys & Girls Hostel & PG,Hyderabad,Secunderabad,21,269,4-bed dorm,5,5,5,8064,8,5,5,"keycard access,lockers,lounge,kitchen",366,No,0,Yes,1
+288,Stay Inn PG For Womens Hostel,Hyderabad,Aziznagar,24,221,3-bed dorm,4,4,4,6616,6,4,4,"parking lot,keycard access,kitchen,lockers",336,Yes,1,Yes,1
+289,Vaibhav Gents Hostel,Hyderabad,Gachibowli,2,230,4-bed dorm,4.5,4.5,4,6885,6,4,2,"keycard access,outdoor space",213,No,0,Yes,1
+290,Deloite Boys Hostel,Hyderabad,Kalimandir,23,130,6-bed dorm,3,3,3,3888,3,3,5,"TV,lounge,Pet-Friendly Facilities,keycard access",304,No,0,Yes,1
+291,Sri Parameshwari Deluxe women Hostels,Hyderabad,Kondapur,8,288,6-bed dorm,5,5,5,8633,8,5,2,"CCTV surveillance,Pet-Friendly Facilities,homely food,parking lot",153,No,0,Yes,1
+292,Basheer Executive Womens and Gents Hostel,Hyderabad,Secunderabad,21,198,3-bed dorm,4,3.5,3.5,5945,5,3.5,3,"game space,TV,kitchen,CCTV surveillance",385,No,0,Yes,1
+293,Diya Reddy Mens PG and Hostel,Hyderabad,Shamshabad,11,238,4-bed dorm,4.5,4.5,4.5,7154,7,4.5,3,"TV,Pet-Friendly Facilities",240,No,0,Yes,1
+294,Om Shiva Sai Boys Deluxe Hostel,Hyderabad,Moinabad,10,199,6-bed dorm,4,4,4,5975,5,4,4,"keycard access,lockers",223,No,0,Yes,1
+295,Luckky Delux Boys & Girls Hostel & PG,Hyderabad,Narsingi,6,251,4-bed dorm,4.5,4.5,4.5,7520,7,4.5,2,"homely food,gym space,outdoor space,keycard access",234,No,0,Yes,1
+296,Nandini Men's Hostels - Miyapur,Hyderabad,Kondapur,8,226,6-bed dorm,4.5,4.5,4,6786,6,4.5,3,"Pet-Friendly Facilities,lockers,CCTV surveillance",352,No,0,Yes,1
+297,Stay Inn PG For Womens Hostel,Hyderabad,Budwel,13,187,Private room,3.5,3.5,3,5602,5,3.5,3,"Pet-Friendly Facilities,homely food,kitchen",447,No,0,Yes,1
+298,Om Shiva Sai Boys Deluxe Hostel,Hyderabad,Rajendranagar,25,120,6-bed dorm,3,3,3,3600,3,3,5,"outdoor space,game space,keycard access",493,No,0,Yes,1
+299,Vaishnavi Pg Accomodation,Hyderabad,Kalimandir,23,192,6-bed dorm,4,4,4.5,5770,5,4,3,"lounge,homely food,Pet-Friendly Facilities,game space",240,Yes,1,Yes,1
+300,Siri Deluxe PG Accommodation Men,Hyderabad,Gachibowli,2,179,Private room,3.5,3.5,4,5382,5,4,5,"outdoor space,TV,parking lot,kitchen",232,Yes,1,Yes,1
+301,VSR EXECUTIVE MEN'S HOSTEL,Hyderabad,Suncity,22,225,6-bed dorm,4,4,4,6761,6,4,4,"homely food,lockers",95,No,0,Yes,1
+302,Jmj R V Boys Hostel,Hyderabad,Madhapur,4,232,Private room,4.5,4.5,4.5,6952,6,4.5,4,"lockers,parking lot",67,No,0,Yes,1
+303,Home Stay Boys Hostel,Hyderabad,Mehidipatnam,1,236,4-bed dorm,4,4,4,7070,7,4,5,"game space,TV,lounge,homely food",167,Yes,1,Yes,1
+304,Sree Srinivasa Deluxe Boys Hostel,Hyderabad,Lakdikapul,5,161,6-bed dorm,3,3,3,4840,4,3,3,"outdoor space,homely food,kitchen,parking lot",331,Yes,1,Yes,1
+305,Kinnera Boys Hostel,Hyderabad,Kismatpur,14,222,6-bed dorm,4,4,4,6664,6,4,4,"kitchen,CCTV surveillance,keycard access",241,No,0,Yes,1
+306,My Space Mens Pg Hostel,Hyderabad,Himayatnagar,16,184,6-bed dorm,3.5,3.5,3.5,5511,5,3.5,2,"CCTV surveillance,parking lot,lockers",293,Yes,1,Yes,1
+307,Sri Sai Balaji Luxury Mens PG,Hyderabad,Secunderabad,21,241,6-bed dorm,4.5,4.5,4.5,7235,7,4,6,"keycard access,TV,game space",360,Yes,1,Yes,1
+308,Anuradha Deluxe Boys Hostel,Hyderabad,Budwel,13,193,Private room,3.5,3.5,3.5,5781,5,3.5,2,"CCTV surveillance,homely food,parking lot,game space",380,Yes,1,Yes,1
+309,Royal Executive Boys Hostel,Hyderabad,Kondapur,8,175,6-bed dorm,3.5,3.5,3.5,5250,5,4,3,"gym space,CCTV surveillance,Pet-Friendly Facilities",150,No,0,Yes,1
+310,AR Prime Men's PG,Hyderabad,Lakdikapul,5,294,4-bed dorm,5,5,5,8810,8,5,4,"parking lot,CCTV surveillance",97,No,0,Yes,1
+311,Sree Vishnu Sai Men's PG Hostel,Hyderabad,Attapur,12,138,3-bed dorm,3.5,3.5,3.5,4147,4,3,5,"lockers,parking lot,CCTV surveillance,homely food",370,Yes,1,Yes,1
+312,Kavuris Kvr Boys Hostel,Hyderabad,Mehidipatnam,1,208,Private room,4,4,4,6239,6,4,5,"TV,Pet-Friendly Facilities,CCTV surveillance,kitchen",30,No,0,Yes,1
+313,Tirumala Womens Hostel and Pg,Hyderabad,Langerhouz,17,234,3-bed dorm,4.5,4.5,4.5,7011,7,4.5,5,"homely food,lockers,keycard access,CCTV surveillance",345,Yes,1,Yes,1
+314,Basheer Executive Womens and Gents Hostel,Hyderabad,Secunderabad,21,233,6-bed dorm,4,4,4,6987,6,4,4,"Pet-Friendly Facilities,TV,outdoor space,homely food",155,No,0,Yes,1
+315,Ravi Mens & Womens Hostel,Hyderabad,Amberpet,19,201,Private room,4,4,4,6022,6,4,5,"parking lot,Pet-Friendly Facilities,TV,kitchen",33,No,0,Yes,1
+316,Bunkers Boys Hostel,Hyderabad,Budwel,13,124,Private room,3,4,3,3731,3,3,5,"kitchen,game space",499,No,0,Yes,1
+317,Cozy Rooms For Men's Hostels,Hyderabad,Attapur,12,233,6-bed dorm,4.5,4.5,4.5,6992,6,4,4,"lockers,TV,kitchen,homely food",35,No,0,Yes,1
+318,Sree Vishnu Sai Men's PG Hostel,Hyderabad,Kondapur,8,162,6-bed dorm,3,3,3,4866,4,3,5,"game space,lounge,outdoor space,Pet-Friendly Facilities",438,No,0,Yes,1
+319,Bunkers Boys Hostel,Hyderabad,Madhapur,4,144,3-bed dorm,3.5,3.5,3.5,4318,4,3.5,4,"lockers,TV",331,No,0,Yes,1
+320,A S Hostels,Hyderabad,Rajendranagar,25,218,6-bed dorm,4,4,4,6529,6,4,2,"game space,lockers",99,No,0,Yes,1
+321,Ravi Relax Inn Mens PG Hostel,Hyderabad,Rajendranagar,25,184,3-bed dorm,4,4,4,5531,5,4,3,"kitchen,CCTV surveillance,parking lot",76,No,0,Yes,1
+322,PEARL LOTUS GRAND PG FOR WOMENS HOSTEL,Hyderabad,Nanalnagar,15,213,Private room,4,4,4,6397,6,4,3,"kitchen,game space,gym space",395,No,0,Yes,1
+323,Deloite Boys Hostel,Hyderabad,Mehidipatnam,1,134,4-bed dorm,3,3,3,4024,4,3,5,"Pet-Friendly Facilities,TV,lockers",413,No,0,Yes,1
+324,Sri Lakshmi Boys Hostel,Hyderabad,Panjagutta,7,289,4-bed dorm,5,5,5,8684,8,5,5,"Pet-Friendly Facilities,kitchen",364,No,0,Yes,1
+325,Kings Boys Hostel,Hyderabad,Lakdikapul,5,240,3-bed dorm,4.5,4.5,4.5,7212,7,4.5,4,"game space,gym space",143,No,0,Yes,1
+326,A S Hostels,Hyderabad,Rajendranagar,25,220,6-bed dorm,4.5,4,4,6595,6,4,6,"gym space,lockers,Pet-Friendly Facilities",136,No,0,Yes,1
+327,Sri Krishna Executive Men's Hostel,Hyderabad,Nanalnagar,15,230,6-bed dorm,4,4,4,6888,6,4,6,"game space,TV,lockers,lounge",138,Yes,1,Yes,1
+328,Vaishnavi Pg Accomodation,Hyderabad,Madhapur,4,239,6-bed dorm,4.5,4.5,4.5,7174,7,4.5,7,"kitchen,game space,outdoor space,TV",258,Yes,1,Yes,1
+329,Siri Deluxe PG Accommodation Men,Hyderabad,Aziznagar,24,237,6-bed dorm,4.5,4.5,4.5,7100,7,4,3,"Pet-Friendly Facilities,parking lot,lockers,game space",269,No,0,Yes,1
+330,Sree Vishnu Sai Men's PG Hostel,Hyderabad,Miyapur,18,161,4-bed dorm,3,3,3,4837,4,3.5,4,"kitchen,CCTV surveillance",121,Yes,1,Yes,1
+331,Ravi Mens & Womens Hostel,Hyderabad,Bandlaguda Jagir,9,282,3-bed dorm,5,5,5,8454,8,5,6,"outdoor space,CCTV surveillance,parking lot",195,Yes,1,Yes,1
+332,Vaibhav Gents Hostel,Hyderabad,Suncity,22,247,Private room,4.5,4.5,4.5,7420,7,4.5,5,"homely food,Pet-Friendly Facilities,game space",385,No,0,Yes,1
+333,Om Shiva Sai Boys Deluxe Hostel,Hyderabad,Attapur,12,156,6-bed dorm,3.5,3.5,3.5,4690,4,3.5,4,"lounge,parking lot,kitchen",114,No,0,Yes,1
+334,Om Shiva Sai Boys Deluxe Hostel,Hyderabad,Secunderabad,21,153,3-bed dorm,3,3,3,4581,4,3.5,5,"Pet-Friendly Facilities,parking lot,homely food",288,Yes,1,Yes,1
+335,Homestay Mens Pg and Coliving Hostel,Hyderabad,Moinabad,10,170,4-bed dorm,3.5,3.5,3.5,5105,5,3.5,5,"parking lot,game space,homely food,keycard access",209,No,0,Yes,1
+336,White House Mens Hostel,Hyderabad,Narsingi,6,126,Private room,3,3,3,3776,3,3,4,"CCTV surveillance,parking lot",258,Yes,1,Yes,1
+337,Home Stay Boys Hostel,Hyderabad,Suncity,22,135,Private room,3,3,3,4056,4,3,4,"lounge,TV,outdoor space,keycard access",420,No,0,Yes,1
+338,Sri Sai Balaji Luxury Mens PG,Hyderabad,LB Nagar,20,218,Private room,4,4,4,6526,6,4,5,"game space,lounge,outdoor space,CCTV surveillance",24,No,0,Yes,1
+339,Home Stay Boys Hostel,Hyderabad,Mehidipatnam,1,174,Private room,3.5,3.5,3.5,5223,5,3.5,4,"Pet-Friendly Facilities,lockers",176,No,0,Yes,1
+340,G Cube Boys Hostel,Hyderabad,Rajendranagar,25,160,6-bed dorm,3.5,3.5,3,4814,4,3.5,3,"keycard access,Pet-Friendly Facilities",132,Yes,1,Yes,1
+341,Sri Vishnu Sai Deluxe Mens Hostel,Hyderabad,Amberpet,19,172,3-bed dorm,3.5,3.5,3.5,5154,5,4,3,"homely food,CCTV surveillance,parking lot",490,No,0,Yes,1
+342,Anuradha Deluxe Boys Hostel,Hyderabad,Panjagutta,7,233,Private room,4,4,4,6984,6,4,4,"lockers,parking lot,kitchen",374,No,0,Yes,1
+343,Sri Shabarisha Executive Boys Hostel,Hyderabad,Bandlaguda Jagir,9,238,Private room,4.5,4.5,4,7139,7,4,4,"lounge,keycard access,outdoor space,homely food",378,Yes,1,Yes,1
+344,Cozy Rooms For Men's Hostels,Hyderabad,Narsingi,6,137,Private room,3,3,3,4097,4,3,6,"lockers,TV,gym space,Pet-Friendly Facilities",281,Yes,1,Yes,1
+345,Kaveri Boys Hostel,Hyderabad,Aziznagar,24,223,Private room,4,4,4,6681,6,4,5,"kitchen,homely food,game space,lockers",313,Yes,1,Yes,1
+346,Ravali Womens Hostel,Hyderabad,Miyapur,18,257,6-bed dorm,4.5,4.5,4.5,7709,7,4.5,2,"parking lot,lounge",258,Yes,1,Yes,1
+347,Prashanth Reddy Men's Hostel,Hyderabad,Himayatnagar,16,226,4-bed dorm,4.5,4.5,4.5,6766,6,4.5,5,"kitchen,keycard access,Pet-Friendly Facilities",244,No,0,Yes,1
+348,R K Boys Hostel,Hyderabad,Nanalnagar,15,156,Private room,3,3,3,4687,4,3,3,"game space,parking lot,CCTV surveillance",55,Yes,1,Yes,1
+349,Sree Vishnu Sai Men's PG Hostel,Hyderabad,Kalimandir,23,245,4-bed dorm,5,5,4.5,7337,7,4.5,8,"TV,keycard access",117,Yes,1,Yes,1
+350,Sri Parameshwari Deluxe Boys Hostels,Hyderabad,Attapur,12,225,6-bed dorm,4,4,4,6736,6,4,5,"CCTV surveillance,game space,lockers,TV",213,Yes,1,Yes,1
+351,Siri Deluxe PG Accommodation Men,Hyderabad,Nanalnagar,15,171,6-bed dorm,3.5,3.5,3.5,5124,5,3.5,4,"outdoor space,keycard access",422,Yes,1,Yes,1
+352,Sri Varun Pg For Womens (Women),Hyderabad,Panjagutta,7,170,3-bed dorm,3.5,3.5,3.5,5111,5,3.5,5,"game space,outdoor space",411,No,0,Yes,1
+353,Sri Sai Balaji Deluxe Boys Hostel,Hyderabad,Panjagutta,7,238,4-bed dorm,4.5,4.5,4.5,7136,7,4.5,4,"homely food,lounge,CCTV surveillance,kitchen",347,No,0,Yes,1
+354,Sri Vishnu Sai Deluxe Mens Hostel,Hyderabad,Amberpet,19,192,Private room,3.5,3.5,3.5,5750,5,3.5,6,"homely food,outdoor space",148,No,0,Yes,1
+355,Nandini Men's Hostels - Miyapur,Hyderabad,Panjagutta,7,198,6-bed dorm,3.5,3.5,3.5,5935,5,3.5,6,"outdoor space,CCTV surveillance,gym space,TV",42,Yes,1,Yes,1
+356,Glanbaxy Homes Pg For Women,Hyderabad,Rajendranagar,25,220,Private room,4.5,4.5,4.5,6595,6,4,5,"lounge,keycard access,homely food",357,No,0,Yes,1
+357,Stay Inn PG For Womens Hostel,Hyderabad,Lakdikapul,5,117,3-bed dorm,2.5,2.5,3,3515,3,2.5,6,"lounge,game space",100,Yes,1,Yes,1
+358,A S Hostels,Hyderabad,LB Nagar,20,184,6-bed dorm,3.5,3.5,3.5,5534,5,3.5,5,"outdoor space,game space,TV,lounge",253,No,0,Yes,1
+359,Sri Vishnu Sai Deluxe Mens Hostel,Hyderabad,Himayatnagar,16,205,4-bed dorm,4,4,4,6145,6,4,3,"gym space,Pet-Friendly Facilities,game space",296,Yes,1,Yes,1
+360,K.V.M BOY'S HOSTEL,Hyderabad,Kondapur,8,207,4-bed dorm,4,4,4,6220,6,4,6,"keycard access,gym space,parking lot,homely food",152,Yes,1,Yes,1
+361,Sri Vishnu Sai Deluxe Mens Hostel,Hyderabad,Miyapur,18,194,6-bed dorm,4,4,4,5821,5,4,6,"CCTV surveillance,kitchen,outdoor space,lounge",79,Yes,1,Yes,1
+362,Homestay Mens Pg and Coliving Hostel,Hyderabad,Kalimandir,23,186,6-bed dorm,3.5,3.5,3.5,5570,5,3.5,4,"lounge,lockers",231,Yes,1,Yes,1
+363,Ravi Mens & Womens Hostel,Hyderabad,Secunderabad,21,131,6-bed dorm,3,3,3,3937,3,3,6,"gym space,TV",131,No,0,Yes,1
+364,Sri Sai Balaji Luxury Mens PG,Hyderabad,Shamshabad,11,201,Private room,4,4,4,6028,6,4,3,"keycard access,outdoor space,lounge",93,No,0,Yes,1
+365,Jmj R V Boys Hostel,Hyderabad,Mehidipatnam,1,186,6-bed dorm,3.5,3.5,3.5,5590,5,3.5,5,"keycard access,lounge,Pet-Friendly Facilities",141,No,0,Yes,1
+366,SriDevis Grand Pg & Hostel For Womens,Hyderabad,Gachibowli,2,265,4-bed dorm,4.5,4.5,4.5,7950,7,4.5,3,"Pet-Friendly Facilities,outdoor space,parking lot,gym space",89,No,0,Yes,1
+367,Sri Comfort Inn Boys Deluxe Hostel,Hyderabad,Miyapur,18,274,3-bed dorm,5,5,5,8217,8,5,4,"lockers,game space,keycard access,TV",304,No,0,Yes,1
+368,Prashanth Reddy Men's Hostel,Hyderabad,Kismatpur,14,269,4-bed dorm,4.5,4.5,4.5,8066,8,4.5,2,"parking lot,gym space",102,Yes,1,Yes,1
+369,Ravali Womens Hostel,Hyderabad,Madhapur,4,282,Private room,5,5,5,8468,8,5,2,"keycard access,gym space,parking lot,outdoor space",314,No,0,Yes,1
+370,Sree Vishnu Sai Men's PG Hostel,Hyderabad,Shamshabad,11,173,Private room,3,3,3,5180,5,3,3,"lockers,parking lot,homely food",194,No,0,Yes,1
+371,Pr Grand Mens Pg and Guest House,Hyderabad,LB Nagar,20,214,Private room,4,4,4,6405,6,4,3,"outdoor space,TV,homely food",22,Yes,1,Yes,1
+372,Sri Manikanta Boys Hostel,Hyderabad,Aziznagar,24,205,3-bed dorm,4,4,4,6152,6,4.5,6,"outdoor space,TV",52,Yes,1,Yes,1
+373,Tirumala Womens Hostel and Pg,Hyderabad,Moinabad,10,226,Private room,4.5,4.5,4.5,6775,6,4.5,3,"game space,keycard access,gym space",272,Yes,1,Yes,1
+374,Home Stay Boys Hostel,Hyderabad,Kondapur,8,156,4-bed dorm,3,3,3,4671,4,3,4,"lockers,TV,homely food",157,Yes,1,Yes,1
+375,PEARL LOTUS GRAND PG FOR WOMENS HOSTEL,Hyderabad,Kismatpur,14,252,3-bed dorm,4.5,4,4.5,7569,7,4,4,"lockers,gym space,outdoor space,keycard access",239,Yes,1,Yes,1
+376,Sri Parameshwari Deluxe Boys Hostels,Hyderabad,Panjagutta,7,133,4-bed dorm,2.5,2.5,2.5,3988,3,2.5,5,"gym space,parking lot,kitchen",196,No,0,Yes,1
+377,Diya Reddy Mens PG and Hostel,Hyderabad,Kalimandir,23,196,6-bed dorm,4,4,4,5883,5,4,6,"TV,kitchen,keycard access",393,Yes,1,Yes,1
+378,Home Stay Boys Hostel,Hyderabad,Moinabad,10,217,3-bed dorm,4,4,4,6499,6,4,4,"parking lot,homely food,keycard access",246,Yes,1,Yes,1
+379,Comfy Men's Hostel,Hyderabad,Miyapur,18,163,6-bed dorm,3.5,3.5,3.5,4903,4,3.5,4,"Pet-Friendly Facilities,parking lot,kitchen",344,Yes,1,Yes,1
+380,Stay Inn PG For Womens Hostel,Hyderabad,LB Nagar,20,217,6-bed dorm,4,4,4,6524,6,4,4,"gym space,outdoor space,TV",184,Yes,1,Yes,1
+381,Pearl Lotus Grand Boys Hostel,Hyderabad,Panjagutta,7,219,3-bed dorm,4,4,4,6580,6,4,5,"TV,outdoor space,lounge,kitchen",48,Yes,1,Yes,1
+382,Sri Sai Executive Boys Hostel,Hyderabad,Kismatpur,14,275,4-bed dorm,5,5,5,8241,8,5,4,"outdoor space,kitchen,CCTV surveillance,lounge",41,No,0,Yes,1
+383,Bhavani Boys Hostel,Hyderabad,Nanalnagar,15,277,Private room,5,5,5,8315,8,5,5,"homely food,keycard access,kitchen",281,Yes,1,Yes,1
+384,Ravi Mens & Womens Hostel,Hyderabad,Kondapur,8,195,4-bed dorm,3.5,3.5,3.5,5838,5,3.5,6,"lounge,homely food",388,Yes,1,Yes,1
+385,Kavuris Kvr Boys Hostel,Hyderabad,Himayatnagar,16,189,6-bed dorm,3.5,3.5,3.5,5663,5,3.5,4,"game space,parking lot,lockers",229,No,0,Yes,1
+386,Siri Deluxe PG Accommodation Men,Hyderabad,Bandlaguda Jagir,9,230,4-bed dorm,4.5,4.5,4,6901,6,4,4,"gym space,CCTV surveillance,homely food",412,No,0,Yes,1
+387,Bunkers Boys Hostel,Hyderabad,Langerhouz,17,212,6-bed dorm,4,4,4,6349,6,4,5,"lockers,TV,CCTV surveillance,game space",386,No,0,Yes,1
+388,Sri Sai Ladies Deluxe Hostel (Women),Hyderabad,Lakdikapul,5,186,3-bed dorm,3.5,3.5,3.5,5571,5,3.5,4,"TV,game space,kitchen",43,Yes,1,Yes,1
+389,Om Shiva Sai Boys Deluxe Hostel,Hyderabad,Bandlaguda Jagir,9,253,4-bed dorm,4.5,4.5,4.5,7575,7,4.5,3,"game space,outdoor space",381,Yes,1,Yes,1
+390,Jmj R V Boys Hostel,Hyderabad,Mehidipatnam,1,306,4-bed dorm,5,5,5,9187,9,5,6,"gym space,Pet-Friendly Facilities",372,No,0,Yes,1
+391,My Home Executive Pg and Hostels (Women),Hyderabad,Lakdikapul,5,252,Private room,4.5,4.5,4.5,7563,7,4.5,4,"homely food,CCTV surveillance,game space,gym space",343,Yes,1,Yes,1
+392,Kaveri Boys Hostel,Hyderabad,Bandlaguda Jagir,9,258,6-bed dorm,4.5,4.5,4.5,7751,7,4.5,2,"TV,keycard access,game space",35,Yes,1,Yes,1
+393,Rama Men's PG Hostel,Hyderabad,Shamshabad,11,183,4-bed dorm,3.5,3.5,3.5,5504,5,3.5,5,"TV,lockers,CCTV surveillance,homely food",170,Yes,1,Yes,1
+394,White House Mens Hostel,Hyderabad,Nanalnagar,15,272,4-bed dorm,5,5,5,8172,8,5,5,"keycard access,kitchen",153,No,0,Yes,1
+395,Kishore's Boys Hostel,Hyderabad,Bandlaguda Jagir,9,249,Private room,4.5,4.5,4.5,7484,7,4.5,5,"lockers,gym space",229,Yes,1,Yes,1
+396,Sri Vishnu Sai Deluxe Mens Hostel,Hyderabad,Miyapur,18,207,6-bed dorm,4,4,4,6196,6,4,2,"homely food,lounge,game space",430,Yes,1,Yes,1
+397,Sree Vishnu Sai Men's PG Hostel,Hyderabad,Langerhouz,17,176,6-bed dorm,3.5,3.5,3.5,5287,5,3.5,3,"keycard access,game space",316,Yes,1,Yes,1
+398,Charan Boys Hostel,Hyderabad,Moinabad,10,209,Private room,4,4,4,6283,6,4,4,"lockers,CCTV surveillance,TV",323,Yes,1,Yes,1
+399,Sri Sai Executive Boys Hostel,Hyderabad,Mehidipatnam,1,216,3-bed dorm,4,4,4,6478,6,4,5,"keycard access,kitchen",155,No,0,Yes,1
+400,Bunkers Boys Hostel,Hyderabad,Budwel,13,238,4-bed dorm,4.5,4.5,4,7140,7,4,2,"outdoor space,gym space,lockers",340,Yes,1,Yes,1
+401,G Cube Boys Hostel,Hyderabad,Lakdikapul,5,264,4-bed dorm,5,4.5,4.5,7906,7,4.5,4,"lounge,outdoor space",173,Yes,1,Yes,1
+402,Balaji Deluxe Mens Hostel,Hyderabad,Lakdikapul,5,229,3-bed dorm,4,4,4,6882,6,4,3,"CCTV surveillance,homely food,outdoor space,keycard access",331,Yes,1,Yes,1
+403,Vaibhav Gents Hostel,Hyderabad,Rajendranagar,25,221,3-bed dorm,4.5,4.5,4.5,6640,6,4.5,3,"Pet-Friendly Facilities,parking lot",374,Yes,1,Yes,1
+404,Vaibhav Executive Boys Hostel,Hyderabad,Gachibowli,2,167,4-bed dorm,3.5,3.5,3.5,5016,5,3.5,4,"TV,kitchen",397,No,0,Yes,1
+405,My Home Executive Pg and Hostels (Women),Hyderabad,Kismatpur,14,269,4-bed dorm,4.5,4.5,4.5,8057,8,4.5,5,"CCTV surveillance,kitchen",197,Yes,1,Yes,1
+406,R K Boys Hostel,Hyderabad,Secunderabad,21,199,3-bed dorm,4,4,4,5973,5,4,3,"lounge,Pet-Friendly Facilities",201,Yes,1,Yes,1
+407,Armani Boys Hostel,Hyderabad,Attapur,12,216,Private room,4,4,4.5,6472,6,4.5,6,"gym space,TV,lounge,outdoor space",69,Yes,1,Yes,1
+408,PEARL LOTUS GRAND PG FOR WOMENS HOSTEL,Hyderabad,Lakdikapul,5,156,6-bed dorm,3,3,3,4689,4,3,4,"keycard access,homely food,lounge,outdoor space",468,No,0,Yes,1
+409,AR Prime Men's PG,Hyderabad,Gachibowli,2,184,4-bed dorm,4,4,4,5531,5,4,4,"lounge,game space,parking lot,keycard access",468,Yes,1,Yes,1
+410,Luckky Delux Boys & Girls Hostel & PG,Hyderabad,Bandlaguda Jagir,9,247,4-bed dorm,4.5,4.5,4.5,7399,7,4.5,2,"Pet-Friendly Facilities,outdoor space,CCTV surveillance",300,Yes,1,Yes,1
+411,Glanbaxy Homes Pg For Women,Hyderabad,Secunderabad,21,160,3-bed dorm,3.5,3.5,3.5,4797,4,3.5,4,"TV,gym space",320,No,0,Yes,1
+412,Sri Sai Balaji Luxury Mens PG,Hyderabad,Budwel,13,217,Private room,4,4,4,6500,6,4,4,"keycard access,homely food,CCTV surveillance",258,Yes,1,Yes,1
+413,Sree Vishnu Sai Men's PG Hostel,Hyderabad,Moinabad,10,284,6-bed dorm,5,5,5,8519,8,5,5,"Pet-Friendly Facilities,CCTV surveillance,kitchen,gym space",54,No,0,Yes,1
+414,PEARL LOTUS GRAND PG FOR WOMENS HOSTEL,Hyderabad,Nanalnagar,15,261,Private room,4.5,4.5,4.5,7832,7,4.5,4,"kitchen,game space,parking lot",132,No,0,Yes,1
+415,Deloite Boys Hostel,Hyderabad,Bandlaguda Jagir,9,273,6-bed dorm,5,5,4.5,8192,8,5,3,"TV,homely food",189,Yes,1,Yes,1
+416,Denny's Luxurious Men's PG & Hostel,Hyderabad,Suncity,22,269,3-bed dorm,5,5,5,8061,8,5,5,"game space,parking lot",112,Yes,1,Yes,1
+417,Sri Parameshwari Deluxe Boys Hostels,Hyderabad,LB Nagar,20,227,Private room,4.5,4.5,4.5,6822,6,4.5,3,"kitchen,homely food,game space",279,No,0,Yes,1
+418,Nandini Men's Hostels - Miyapur,Hyderabad,Himayatnagar,16,213,3-bed dorm,4,4,4,6400,6,4,3,"TV,outdoor space,lounge",175,Yes,1,Yes,1
+419,Sri Sai Balaji Deluxe Boys Hostel,Hyderabad,Kukatpally,3,130,6-bed dorm,3,3,3,3885,3,3,6,"TV,game space,keycard access,CCTV surveillance",334,No,0,Yes,1
+420,Sree Ravi Relax Inn Men's PG Hostel,Hyderabad,Panjagutta,7,237,3-bed dorm,4.5,4.5,4.5,7106,7,4.5,3,"gym space,Pet-Friendly Facilities,parking lot,TV",393,No,0,Yes,1
+421,Laksh Triveni Executive Hostel For Men,Hyderabad,Madhapur,4,223,4-bed dorm,4,4,4,6692,6,4,5,"kitchen,homely food,TV,parking lot",348,Yes,1,Yes,1
+422,Sri Thirumalai Mens Pg Hostel,Hyderabad,Budwel,13,158,6-bed dorm,3,3,3,4737,4,3,4,"game space,gym space",261,No,0,Yes,1
+423,Kavuris Kvr Boys Hostel,Hyderabad,Panjagutta,7,236,3-bed dorm,4.5,4.5,4.5,7082,7,4.5,7,"TV,gym space",42,Yes,1,Yes,1
+424,Pr Grand Mens Pg and Guest House,Hyderabad,Amberpet,19,194,3-bed dorm,4,4,4,5817,5,4,3,"lockers,homely food,keycard access",347,No,0,Yes,1
+425,Sai Balaji Delux Men's Hostel and Pg,Hyderabad,Madhapur,4,194,Private room,4,4,4,5831,5,4,2,"parking lot,TV,game space,lockers",240,Yes,1,Yes,1
+426,Vaibhav Executive Boys Hostel,Hyderabad,Miyapur,18,181,6-bed dorm,3.5,3.5,3.5,5442,5,3.5,6,"kitchen,Pet-Friendly Facilities,TV",260,No,0,Yes,1
+427,Home Stay Boys Hostel,Hyderabad,Amberpet,19,231,Private room,4.5,4.5,4.5,6934,6,4.5,7,"lounge,gym space",384,No,0,Yes,1
+428,K V Boys Hostel,Hyderabad,Miyapur,18,158,6-bed dorm,3,3,3,4749,4,3,5,"outdoor space,lockers,homely food,game space",74,Yes,1,Yes,1
+429,Aarush Men's Luxury Pg Accommodation,Hyderabad,Kalimandir,23,172,4-bed dorm,3.5,3,3,5164,5,3.5,6,"parking lot,keycard access",162,Yes,1,Yes,1
+430,Vaibhav Gents Hostel,Hyderabad,Kismatpur,14,279,4-bed dorm,5,5,5,8379,8,5,2,"CCTV surveillance,parking lot",357,No,0,Yes,1
+431,SRI KARTHIKEYA EXECUTIVE MENS HOSTEL,Hyderabad,Bandlaguda Jagir,9,196,4-bed dorm,3.5,3.5,3.5,5884,5,3.5,3,"lockers,TV,keycard access,game space",317,No,0,Yes,1
+432,Ravi Mens & Womens Hostel,Hyderabad,Gachibowli,2,236,Private room,4.5,4.5,4.5,7075,7,4.5,2,"CCTV surveillance,keycard access,gym space,parking lot",27,Yes,1,Yes,1
+433,A S Hostels,Hyderabad,Kismatpur,14,240,6-bed dorm,4,4,4,7196,7,4.5,3,"kitchen,outdoor space,Pet-Friendly Facilities,game space",80,Yes,1,Yes,1
+434,Vaibhav Gents Hostel,Hyderabad,LB Nagar,20,227,Private room,4.5,4.5,4.5,6810,6,4.5,5,"parking lot,gym space",373,Yes,1,Yes,1
+435,Royal Executive Boys Hostel,Hyderabad,Moinabad,10,233,3-bed dorm,4.5,4.5,4.5,6993,6,4.5,4,"outdoor space,parking lot,game space",181,Yes,1,Yes,1
+436,Sri Lakshmi Boys Hostel,Hyderabad,Shamshabad,11,214,3-bed dorm,4,4,4,6406,6,4,4,"lounge,lockers",370,No,0,Yes,1
+437,Mokshitha Mens Hostel,Hyderabad,Aziznagar,24,178,Private room,3,3,3,5330,5,3.5,5,"lounge,CCTV surveillance,TV",233,No,0,Yes,1
+438,Royal Executive Boys Hostel,Hyderabad,Aziznagar,24,243,4-bed dorm,4.5,4.5,4.5,7301,7,4,4,"Pet-Friendly Facilities,lockers,CCTV surveillance,keycard access",143,Yes,1,Yes,1
+439,Sri Lakshmi Boys Hostel,Hyderabad,Aziznagar,24,189,6-bed dorm,3.5,3.5,3.5,5668,5,3.5,5,"lounge,Pet-Friendly Facilities,lockers",320,No,0,Yes,1
+440,Ravi Mens & Womens Hostel,Hyderabad,Miyapur,18,183,6-bed dorm,3.5,3.5,3.5,5475,5,3.5,4,"keycard access,TV,CCTV surveillance",159,Yes,1,Yes,1
+441,Victory Boys Hostel,Hyderabad,Himayatnagar,16,225,Private room,4.5,4.5,4.5,6758,6,4,5,"homely food,outdoor space,game space,lounge",287,No,0,Yes,1
+442,Prashanth Reddy Men's Hostel,Hyderabad,Gachibowli,2,220,3-bed dorm,4.5,4.5,4,6614,6,4,5,"game space,gym space",267,No,0,Yes,1
+443,Sri Mahalaxmi Pg,Hyderabad,Miyapur,18,231,Private room,4.5,4.5,4.5,6918,6,4.5,4,"homely food,parking lot,TV",152,Yes,1,Yes,1
+444,Tirumala Womens Hostel and Pg,Hyderabad,Bandlaguda Jagir,9,176,4-bed dorm,3.5,3.5,3,5280,5,3,5,"outdoor space,gym space,parking lot",332,No,0,Yes,1
+445,Victory Boys Hostel,Hyderabad,Miyapur,18,216,3-bed dorm,4,4,4,6468,6,4,3,"kitchen,CCTV surveillance,keycard access",269,No,0,Yes,1
+446,PEARL LOTUS GRAND PG FOR WOMENS HOSTEL,Hyderabad,Bandlaguda Jagir,9,211,6-bed dorm,4,4,4,6334,6,4,5,"keycard access,Pet-Friendly Facilities",188,No,0,Yes,1
+447,Sri Thirumalai Mens Pg Hostel,Hyderabad,Kismatpur,14,209,Private room,4,3.5,4,6266,6,4,3,"outdoor space,keycard access,lockers,kitchen",363,No,0,Yes,1
+448,Deluxe Hostel,Hyderabad,Budwel,13,248,3-bed dorm,4.5,4.5,4.5,7431,7,4.5,5,"parking lot,Pet-Friendly Facilities,outdoor space,lockers",31,No,0,Yes,1
+449,G Cube Boys Hostel,Hyderabad,Lakdikapul,5,120,Private room,2.5,2.5,2.5,3609,3,2.5,5,"homely food,CCTV surveillance,lounge",125,Yes,1,Yes,1
+450,VSR EXECUTIVE MEN'S HOSTEL,Hyderabad,Attapur,12,109,4-bed dorm,3.5,2,2,3271,3,2,6,"kitchen,TV",454,No,0,Yes,1
+451,Anuradha Deluxe Boys Hostel,Hyderabad,Narsingi,6,210,6-bed dorm,3.5,4,4,6307,6,3.5,3,"lounge,keycard access",253,No,0,Yes,1
+452,Armani Boys Hostel,Hyderabad,Suncity,22,162,6-bed dorm,3,3,3,4861,4,3,4,"gym space,lockers,Pet-Friendly Facilities,TV",356,No,0,Yes,1
+453,Om Shiva Sai Boys Deluxe Hostel,Hyderabad,Lakdikapul,5,230,Private room,4.5,4,4.5,6900,6,4,4,"keycard access,parking lot,CCTV surveillance,lounge",364,Yes,1,Yes,1
+454,K V Boys Hostel,Hyderabad,Budwel,13,251,4-bed dorm,4.5,4.5,4.5,7527,7,4.5,3,"Pet-Friendly Facilities,kitchen,TV",247,Yes,1,Yes,1
+455,Vaibhav Executive Boys Hostel,Hyderabad,Kismatpur,14,204,3-bed dorm,3.5,3.5,3.5,6126,6,3.5,6,"gym space,Pet-Friendly Facilities,CCTV surveillance,kitchen",19,Yes,1,Yes,1
+456,Charan Boys Hostel,Hyderabad,Kondapur,8,186,3-bed dorm,3.5,3.5,3.5,5582,5,3.5,5,"keycard access,kitchen,outdoor space,game space",23,No,0,Yes,1
+457,Teja Luxury Women's PG,Hyderabad,Budwel,13,228,Private room,4,4.5,4.5,6830,6,4,4,"TV,kitchen",33,No,0,Yes,1
+458,Balaji Deluxe Mens Hostel,Hyderabad,Gachibowli,2,125,3-bed dorm,3,3,3,3746,3,3,5,"Pet-Friendly Facilities,kitchen,lockers",195,No,0,Yes,1
+459,Prashanth Reddy Men's Hostel,Hyderabad,Moinabad,10,125,3-bed dorm,3,3,3,3752,3,3,4,"homely food,game space",486,No,0,Yes,1
+460,Om Shiva Sai Boys Deluxe Hostel,Hyderabad,Attapur,12,221,6-bed dorm,4,4,4,6617,6,4,3,"outdoor space,Pet-Friendly Facilities,CCTV surveillance,kitchen",185,Yes,1,Yes,1
+461,Homestay Mens Pg and Coliving Hostel,Hyderabad,Miyapur,18,188,6-bed dorm,3.5,3.5,3.5,5631,5,3.5,3,"parking lot,outdoor space,CCTV surveillance",366,Yes,1,Yes,1
+462,Sree Ravi Relax Inn Men's PG Hostel,Hyderabad,Lakdikapul,5,203,6-bed dorm,4,3.5,3.5,6084,6,4,4,"TV,Pet-Friendly Facilities,game space,gym space",223,No,0,Yes,1
+463,Sun Valley Womens Hostel,Hyderabad,Attapur,12,257,6-bed dorm,4.5,4.5,4.5,7705,7,4.5,2,"kitchen,lockers,lounge",193,No,0,Yes,1
+464,MUKUNDA PG HOSTEL FOR MENS AC & NON AC,Hyderabad,Kalimandir,23,235,4-bed dorm,4.5,4.5,4.5,7048,7,4.5,6,"parking lot,outdoor space,gym space",270,No,0,Yes,1
+465,Sri Sai Executive Boys Hostel,Hyderabad,Miyapur,18,208,3-bed dorm,4,4,4,6237,6,4,3,"kitchen,outdoor space,parking lot,homely food",78,Yes,1,Yes,1
+466,Annapurna Womens Hostel,Hyderabad,Bandlaguda Jagir,9,159,3-bed dorm,3,3,3,4773,4,3,4,"kitchen,lounge",213,No,0,Yes,1
+467,Armani Boys Hostel,Hyderabad,Kukatpally,3,222,Private room,4,4,4,6661,6,4,7,"gym space,parking lot,kitchen",114,Yes,1,Yes,1
+468,Vijaya Lotus Executive Boys Hostel,Hyderabad,Lakdikapul,5,160,3-bed dorm,3,3,3,4789,4,3,3,"homely food,keycard access,lockers,outdoor space",301,Yes,1,Yes,1
+469,AR Prime Men's PG,Hyderabad,Himayatnagar,16,209,6-bed dorm,4,4,4,6263,6,4,3,"outdoor space,TV,kitchen",188,No,0,Yes,1
+470,PEARL LOTUS GRAND PG FOR WOMENS HOSTEL,Hyderabad,Aziznagar,24,250,Private room,4.5,4.5,4.5,7514,7,45,2,"lockers,homely food,parking lot",323,Yes,1,Yes,1
+471,Sri Mahalaxmi Pg,Hyderabad,Suncity,22,178,Private room,3.5,3.5,3.5,5327,5,3.5,3,"gym space,parking lot,keycard access,outdoor space",248,Yes,1,Yes,1
+472,My Space Mens Pg Hostel,Hyderabad,Budwel,13,214,6-bed dorm,4,4,3.5,6417,6,3.5,5,"parking lot,homely food",272,Yes,1,Yes,1
+473,Sree Ravi Relax Inn Men's PG Hostel,Hyderabad,Moinabad,10,230,Private room,4.5,4.5,4.5,6890,6,4.5,3,"gym space,TV",204,No,0,Yes,1

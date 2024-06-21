@@ -1,0 +1,38 @@
+/* Basic styling for a clean layout */
+body {
+    font-family: serif;
+    background-color: #DCDCDC; /* White background for the container */
+    border: 4px solid #010e11; /* Add a border */
+    padding: 5px; /* Add some padding */
+    margin: 0 auto; /* Center the container horizontally */
+    max-width: 800px; /* Set a maximum width */
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    
+   
+
+label {
+    font-weight: bold;
+    
+    
+}
+}
+
+select, input[type="submit"] {
+    padding: 5px;
+    border: 1px solid #ccc;
+    
+    
+}
+.container {
+    background-color: #4fd0f4; /* White background for the container */
+    border: 1px solid #ddd; /* Add a border */
+    padding: 20px; /* Add some padding */
+    margin: 0 auto; /* Center the container horizontally */
+    max-width: 800px; /* Set a maximum width */
+  }
+
